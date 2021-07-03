@@ -1,58 +1,36 @@
 # All Time Reading List
 
 ### July 2009 (Montreal)
-- My Experiments with Truth by Mahatma Gandhi
-- Coming Up For Air by George Orwell
-- Burmese Days by George Orwell
-- On Writing by Stephen King
-- Catch 22 by Joseph Heller
-- Where Do We Go From Here by Martin Luther King
-- The Friends of Meager Fortune by David Adam Richards
-- A People's History of the United States by Howard Zinn
-- On the Road by Jack Kerouac
+- My Experiments with Truth -- Mahatma Gandhi
+- Coming Up For Air -- George Orwell
+- Burmese Days -- George Orwell
+- On Writing -- Stephen King
+- Catch 22 -- Joseph Heller
+- Where Do We Go From Here -- Martin Luther King
+- The Friends of Meager Fortune -- David Adam Richards
+- A People's History of the United States -- Howard Zinn
+- On the Road -- Jack Kerouac
+- The Road -- Cormac McCarthy
+- The Sirens of Titan -- Kurt Vonnegut
+- Right Honourable Men -- Michael Bliss
+- A Portrait of the Artist as a Young Man -- James Joyce
+- Out of the Blue: A History of Lightning -- John Friedman
+- Moral Disorder -- Margaret Atwood
+- Zen and the Art of Motorcycle Maintenance -- Robert Pirsig
+- Cockroach -- Rawi Hage
+- Jest of God -- Margaret Laurence
+- Oryx and Crake -- Margaret Atwood
+- Pilgrim -- Timothy Findley
+- The Days of Henry David Thoreau -- Walter Harding
+- The Edible Woman -- Margaret Atwood
+- Dance of the Happy Shades -- Alice Munro
+- Alice's Adventures in Wonderland and Through the Looking Glass -- Lewis Carrol
+- Fifth Business -- Roberston Davies
+- The Grapes of Wrath -- John Steinbeck
+- Gulliver's Travels -- Jonathan Swift
+- The Stone Angel -- Margaret Laurence
+- Surfacing -- Margaret Atwood
 
-
-Jack Kerouac--On the Road
-
-Cormac McCarthy--The Road
-
-Kurt Vonnegut--The Sirens of Titan
-
-Michael Bliss--Right Honourable Men
-
-James Joyce--A Portrait of the Artist as a Young Man
-
-John Friedman--Out of the Blue, A History of Lightning
-
-Margaret Atwood--Moral Disorder
-
-Robert Pirsig--Zen and the Art of Motorcycle Maintenance
-
-Rawi Hage--Cockroach
-
-Margaret Lawrence--Jest of God
-
-Margaret Atwood--Oryx and Crake
-
-Timothy Findley--Pilgrim
-
-Walter Harding--The Days of Henry David Thoreau
-
-Margaret Atwood--The Edible Woman
-
-Alice Munro--Dance of the Happy Shades
-
-Lewis Carrol--Alice's Adventures in Wonderland and Through the Looking Glass
-
-Robertson Davies--Fifth Business
-
-John Steinbeck--The Grapes of Wrath
-
-Jonathan Swift--Gulliver's Travels
-
-Margaret Laurence--The Stone Angel
-
-Margaret Atwood--Surfacing
 
 Robertson Davies--The Pleasures of Reading
 
