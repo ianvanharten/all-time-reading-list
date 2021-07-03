@@ -1,6 +1,6 @@
 # All Time Reading List
 
-### July 2009 (Montreal)
+### 2009 (Living in Montreal)
 - My Experiments with Truth -- Mahatma Gandhi
 - Coming Up For Air -- George Orwell
 - Burmese Days -- George Orwell
@@ -30,143 +30,77 @@
 - Gulliver's Travels -- Jonathan Swift
 - The Stone Angel -- Margaret Laurence
 - Surfacing -- Margaret Atwood
-
-
-Robertson Davies--The Pleasures of Reading
-
-George Orwell--All Art is Propoganda
-
-GK CHesterton--Orthodoxy
-
-Dawn Martin-Hill--The Lubicon Lake Nation
-
-John Goddard--The Last Stand of the Lubicon Cree
-
-Kurt Vonnegut--Cat's Cradle
-
-JD Salinger--The Catcher in the Rye
-
-Timothy Findley--Spadework
-
-William Faulkner--As I Lay Dying
-
-Philip K. Dick--The Man in the High Castle
-
-Mark Haddon--The Curious Incident with the Dog in the Nighttime
-
-Richard Holmes--The Age of Wonder
-
-Margaret Atwood--The Year of the Flood
-
-Timothy Findley--You Went Away
-
-Margaret Atwood--Lady Oracle
-
-Gabrielle Roy--The Tin Flute
-
---April 2010 (Orangeville)--
-
-Margaret Laurence--The Fire Dwellers
-
-Martin Booth--Cannabis, a History
-
-Social Change in Canada
-
-Metamorphasis--Franz Kafka
-
-Mere Christianity--C.S. Lewis
-
-The Divine Invasion--Philip K. Dick
-
-Valis--Philip K. Dick
-
-The Transmigration of Timothy Archer--Philip K. Dick
-
-Human Race Get Off Your Knees--David Icke
-
-Truth Vibrations--David Icke
-
-Conversations with God 1, 2, 3--Neale Walcsh
-
-Quantum THeory Cannot Hurt You
-
-Consciousness Beyond Life--Pip van Lommel
-
-The Third Reich in Power--Evans
-
-A Handmaid's Tale--Margaret Atwood
-
-The Joy of Not Working
-
-What God Wants--Neale Walsch
-
-The Secret History of Lucifer
-
-The Bible, a Biography--Karen Armstrong
-
-Tracks in the Psychic Wilderness--Dale E. Graff
-
-Propaganda--Jacques Ellul
-
-Supernature--John Downer
-
-Childhood's End--Arthur Clarke
-
-Tomorrow's God--Neale Donald Walsch
-
-Doctoring the Mind--Richard P. Bentall
-
-Understanding Media--Marshall McLuhan
-
-The Scalpel, the Sword
-
-The Shallows--Nicholas Carr
-
-Marshall McLuhan, The Medium and the Messanger--Philip Marchand
-
-Television and the Quality of Life--Kubey and Csikszentmihalyi
-
-Beatrice and Virgil--Yann Martel
-
-The Book--Alan Watts
-
-Our Posthuman Future--Francis Fukuyama
-
-What is Stephen Harper Reading--Yann Martel
-
-Brave New World and Brave New World Revisited--Aldous Huxley
-
-The Way of Zen--Alan Watts
-
-The Vertical Farm--Dr. Dickson Despommier
-
-Zapped--Anne Louise Gittleman
-
-Life of Pi--Yann Martel
-
-The Information--James Gleick
-
-Genesis--Bernard Beckett
-
-A Mind Apart--Susanne Antonetta
-
-A Celestine Vision--James Redfield
-
-The Tenth Insight--James Redfield
-
-The Holographic Universe--Micheal Talbot
-
-The New Story of Science
-
-The Natural Mind--Andrew Weil
-
-Flowers for Algernon--Daniel Keyes
-
-The Best American Science Writing--Natalie Angier Ed.
-
---July 2011 (Michelle's Wedding)--
-
-Not Even Wrong--Paul COllins
+- The Pleasures of Reading -- Robertson Davies
+- All Art is Propaganda -- George Orwell
+- Orthodoxy -- GK Chesterton
+- The Lubicon Lake Nation -- Dawn Martin-Hill
+- The Last Stand of the Lubicon Cree -- John Goddard
+- Cat's Cradle -- Kurt Vonnegut
+- The Catcher in the Rye -- JD Salinger
+- Spadework -- Timothy Findley
+- As I Lay Dying -- William Faulkner
+- The Man in the High Castle -- Philip K. Dick
+- The Curious Incident with the Dog in the Nighttime -- Mark Haddon
+- The Age of Wonder -- Richard Holmes
+- The Year of the Flood -- Margaret Atwood
+- You Went Away -- Timothy Findley
+- Lady Oracle -- Margaret Atwood
+- The Tin Flute -- Gabrielle Roy
+
+### April 2010 (Back in Orangeville)
+
+- The Fire Dwellers -- Margaret Laurence
+- Cannabis: A History -- Martin Booth
+- Metamorphasis -- Franz Kafka
+- Mere Christianity -- C.S. Lewis
+- The Divine Invasion -- Philip K. Dick
+- Valis -- Philip K. Dick
+- The Transmigration of Timothy Archer -- Philip K. Dick
+- Human Race Get Off Your Knees -- David Icke
+- Truth Vibrations -- David Icke
+- Conversations with God 1, 2, 3 -- Neale Walcsh
+- Quantum THeory Cannot Hurt You -- Marcus Chown
+- Consciousness Beyond Life -- Pip van Lommel
+- The Third Reich in Power -- Richard J. Evans
+- A Handmaid's Tale -- Margaret Atwood
+- The Joy of Not Working -- Ernie Zelinski
+- What God Wants -- Neale Walsch
+- The Secret History of Lucifer -- Lynn Picknett
+- The Bible, a Biography -- Karen Armstrong
+- Tracks in the Psychic Wilderness -- Dale E. Graff
+- Propaganda -- Jacques Ellul
+- Supernature -- John Downer
+- Childhood's End -- Arthur Clarke
+- Tomorrow's God -- Neale Donald Walsch
+- Doctoring the Mind -- Richard P. Bentall
+- Understanding Media -- Marshall McLuhan
+- The Scalpel, the Sword: The Story of Dr. Norman Bethune -- Ted Allen
+- The Shallows -- Nicholas Carr
+- Marshall McLuhan, The Medium and the Messanger -- Philip Marchand
+- Television and the Quality of Life -- Kubey and Csikszentmihalyi
+- Beatrice and Virgil -- Yann Martel
+- The Book -- Alan Watts
+- Our Posthuman Future -- Francis Fukuyama
+- What is Stephen Harper Reading -- Yann Martel
+- Brave New World and Brave New World Revisited -- Aldous Huxley
+- The Way of Zen -- Alan Watts
+- The Vertical Farm -- Dr. Dickson Despommier
+- Zapped -- Anne Louise Gittleman
+- Life of Pi -- Yann Martel
+- The Information -- James Gleick
+- Genesis -- Bernard Beckett
+- A Mind Apart -- Susanne Antonetta
+- A Celestine Vision -- James Redfield
+- The Tenth Insight -- James Redfield
+- The Holographic Universe -- Micheal Talbot
+- The New Story of Science -- Robert Augros
+- The Natural Mind -- Andrew Weil
+- Flowers for Algernon -- Daniel Keyes
+- The Best American Science Writing -- Natalie Angier Ed.
+
+### July 2011 (Michelle's Wedding)
+
+Not Even Wrong--Paul Collins
 
 Thinking in Pictures--Temple Grandin
 
