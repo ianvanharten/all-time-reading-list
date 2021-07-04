@@ -100,91 +100,53 @@
 
 ### July 2011 (Michelle's Wedding)
 
-Not Even Wrong--Paul Collins
+Not Even Wrong -- Paul Collins
+Thinking in Pictures -- Temple Grandin
+Darwinia -- Robert Charles Wilson
+Be Different -- John Elder Robison
+Supergods -- Grant Morrison
+The Chrysalids -- John Wyndham
+Promethea Series (1-3) -- Alan Moore
 
-Thinking in Pictures--Temple Grandin
+## September 2011 (Living in Kingston)
 
-Darwinia--Robert Charles Wilson
-
-Be Different--John Elder Robison
-
-Supergods--Grant Morrison
-
-The Chrysalids--John Wyndham
-
-Promethea Series (1-3)--Alan Moore
-
---September 2011 (Kingston)--
-
-The Lives of a Cell--Lewis Thomas
-
-The Elements of Style--William Strung Jr.
-
-Tommy Douglas--Vincent Lam
-
-You Are Psychic--Pete Sanders Jr.
-
-The Greatest Dinosaur Expedition
-
-The Story of Canada--Janet Lunn and Christopher Moore
-
-Bios--Robert Charles Wilson
-
-The Unwritten (Vol. 1)--Mike Carey and Peter Gross
-
-Blind Lake--Robert Charles Wilson
-
-Moontellers--Lynn Horoney and Greg Shed
-
-Mythos II--Joseph Campbell (movie lectures)
-
-The Lord of the Rings Trilogy--JRR Tolkien
-
+The Lives of a Cell -- Lewis Thomas
+The Elements of Style -- William Strung Jr.
+Tommy Douglas -- Vincent Lam
+You Are Psychic -- Pete Sanders Jr.
+The Greatest Dinosaur Project -- Wayne Grady
+The Story of Canada -- Janet Lunn and Christopher Moore
+Bios -- Robert Charles Wilson
+The Unwritten (Vol. 1) -- Mike Carey and Peter Gross
+Blind Lake -- Robert Charles Wilson
+Moontellers -- Lynn Horoney and Greg Shed
+Mythos II -- Joseph Campbell (movie lectures)
+The Lord of the Rings Trilogy -- JRR Tolkien
 Being Caribou (Canadian Documentary)
-
-The Way of the Shaman--Michael Harner
-
-South of the Border(documentary)--Oliver Stone
-
-Charles Darwin's On the Origin of Species: A Graphic Adaptation--Michael Keller and Nicolle Rager Fuller
-
-They Knew the Unknown--Martin Ebon
-
-Sex Secrets--Brian Chichester and Kenton Robinson
-
-The Wayfinders--Wade Davis
-
-Self--Yann Martel
-
-The Unwritten (Vol. 2)--Mike Carey and Peter Gross
-
-1984--George Orwell
-
-Recollections of an Assiniboine Chief--Dan Kennedy (Ochankugahe)
-
-Ocean Mind, Parts 1 and 2--IDEAS
-
-The Power of Colour, Parts 1, 2, and 3--IDEAS
-
-The Empire of Illusion--IDEAS
-
-Buy-ology--Martin Lindstrom
-
+The Way of the Shaman -- Michael Harner
+South of the Border(documentary) -- Oliver Stone
+Charles Darwin's On the Origin of Species: A Graphic Adaptation -- Michael Keller and Nicolle Rager Fuller
+They Knew the Unknown -- Martin Ebon
+Sex Secrets -- Brian Chichester and Kenton Robinson
+The Wayfinders -- Wade Davis
+Self -- Yann Martel
+The Unwritten (Vol. 2) -- Mike Carey and Peter Gross
+1984 -- George Orwell
+Recollections of an Assiniboine Chief -- Dan Kennedy (Ochankugahe)
+Ocean Mind, Parts 1 and 2 -- IDEAS
+The Power of Colour, Parts 1, 2, and 3 -- IDEAS
+The Empire of Illusion -- IDEAS
+Buy-ology -- Martin Lindstrom
 Nikola Tesla: Master of Lightning (Documentary)
-
 The Boy with the Incredible Brain (Documentary)
+Pride and Prejudice -- Jane Austen
+Homo (Sapien) Neanderthalenthis -- IDEAS
+Wisdom of the Elders -- David Suzuki and Peter Knudsten
 
-Pride and Prejudice--Jane Austen
+## January 2012
 
-Homo (Sapien) Neanderthalenthis--IDEAS
-
-Wisdom of the Elders--David Suzuki and Peter Knudsten
-
---January 2012--
-
-1491--Charles C. Mann
-
-Not Wanted on the Voyage--Timothy Findley
+1491 -- Charles C. Mann
+Not Wanted on the Voyage -- Timothy Findley
 
 The Bhagavad Gita--Translated by Easwaran
 
@@ -1702,4 +1664,10 @@ The Worry Cure--Robert Leahy
 
 The Goal--Eliyahu Goldratt
 
+--June 2021--
+Mindset--Carol Dweck
+Apprenticeship Patterns--David Hoover
+
+--July 2021--
+The Passionate Programmer--Chad Fowler
 
