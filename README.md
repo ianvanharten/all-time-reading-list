@@ -530,609 +530,609 @@
 
 ## January 2015
 
-- Beyond Belief: Secret Life Inside Scientology—Jenna Miscavige Hill
-- Ex Machina—Brian K. Vaughan
-- The Encyclopedia of Early Earth—Isabel Greenberg
-- High Price—Dr. Carl Hart
-- An Astronaut’s Guide to Life on Earth—Chris Hadfield
-- Intolerable—Kamal Al-Solaylee
-- Ru—Kim Thuy	
+- Beyond Belief: Secret Life Inside Scientology -- Jenna Miscavige Hill
+- Ex Machina -- Brian K. Vaughan
+- The Encyclopedia of Early Earth -- Isabel Greenberg
+- High Price -- Dr. Carl Hart
+- An Astronaut’s Guide to Life on Earth -- Chris Hadfield
+- Intolerable -- Kamal Al-Solaylee
+- Ru -- Kim Thuy	
 
-—February 2015—
+## February 2015
 
-- And the Birds Rained Down—Jocelyne Saucier
-- Understanding Media (x2)—Marshall Mcluhan
-- In Other Worlds—Margaret Atwood
-- Marshall Mcluhan—Douglas Coupland
-- Understanding Me—Marshall Mcluhan
-- The Gutenberg Galaxy—Marshall Mcluhan
-- The Medium is the Massage—Marshall Mcluhan
+- And the Birds Rained Down -- Jocelyne Saucier
+- Understanding Media (x2) -- Marshall Mcluhan
+- In Other Worlds -- Margaret Atwood
+- Marshall Mcluhan -- Douglas Coupland
+- Understanding Me -- Marshall Mcluhan
+- The Gutenberg Galaxy -- Marshall Mcluhan
+- The Medium is the Massage -- Marshall Mcluhan
 
-—March 2015—
+## March 2015
 
-- The Demon-Haunted World—Carl Sagan
-- Attack on Titan—Hajime Isayama
-- My Times—Pierre Berton
-- Preacher—Garth Ennis
-- Saving the CBC—Wade Rowland
+- The Demon-Haunted World -- Carl Sagan
+- Attack on Titan -- Hajime Isayama
+- My Times -- Pierre Berton
+- Preacher -- Garth Ennis
+- Saving the CBC -- Wade Rowland
 
-—April 2015—
+## April 2015
 
-- The Microphone Wars—Knowlton Nash
-- Starting Out—Pierre Berton
-- The Klondike—Zach Worton
-- Economix—Michael Goodwin and Dan Burr
-- The Mass Media in Canada—Mary Vipond
+- The Microphone Wars -- Knowlton Nash
+- Starting Out -- Pierre Berton
+- The Klondike -- Zach Worton
+- Economix -- Michael Goodwin and Dan Burr
+- The Mass Media in Canada -- Mary Vipond
 
-—May 2015—
+## May 2015
 
-- Kings of Convergence—Gordon Pitts
-- Public Relations—Walter Lippman
-- Letters to a Young Scientist—E.O. Wilson
-- McLuhan for Beginners—Terrence Gordon and Susan Willmarth
-- Making Comics—Scott McCloud (x2)
-- The News: A User’s Manual—Alain de Botton
+- Kings of Convergence -- Gordon Pitts
+- Public Relations -- Walter Lippman
+- Letters to a Young Scientist -- E.O. Wilson
+- McLuhan for Beginners -- Terrence Gordon and Susan Willmarth
+- Making Comics -- Scott McCloud (x2)
+- The News: A User’s Manual -- Alain de Botton
 
-—June 2015 (Orangeville)—
+## June 2015 (Back to Orangeville)
 
-- Martian Time-Slip—Philip K. Dick
-- Kitaro—Shigeru Mizuki
-- Marbles: Mania, Depression, Michaelangelo, and Me—Ellen Forney
-- Tina’s Mouth: An Existential Comic Diary—Keshni Kashyap and Mari Araki
-- Nonnonba—Shigeru Mizuki
-- Seconds—Bryan Lee O’Malley
-- This One Summer—Mariko Tamaki and Jillian Tamaki
-- Here—Richard McGuire
+- Martian Time-Slip -- Philip K. Dick
+- Kitaro -- Shigeru Mizuki
+- Marbles: Mania, Depression, Michaelangelo, and Me -- Ellen Forney
+- Tina’s Mouth: An Existential Comic Diary -- Keshni Kashyap and Mari Araki
+- Nonnonba -- Shigeru Mizuki
+- Seconds -- Bryan Lee O’Malley
+- This One Summer -- Mariko Tamaki and Jillian Tamaki
+- Here -- Richard McGuire
 
-—July 2015—
+## July 2015
 
-- Supergods—Grant Morrison (x2)
-- On Jung—Anthony Stevens
-- The Chrysalids—John Wyndham (x3)
-- The Midwich Cuckoos—John Wyndham
+- Supergods -- Grant Morrison (x2)
+- On Jung -- Anthony Stevens
+- The Chrysalids -- John Wyndham (x3)
+- The Midwich Cuckoos -- John Wyndham
 
-—August 2015—
+## August 2015
 
-- The Grand Design—Stephen Hawking
-- Harvest—Robert Charles Wilson
-- Mister Wonderful—Daniel Clowes
-- Wolverine: Old Man Logan—Mark Millar and Steve McNiven
-- Sobriety: A Graphic Novel—Daniel D. Maurer and Spencer Amundson
-- The Eerie Silence—Paul Davies
-- Science Set Free—Rupert Sheldrake
+- The Grand Design -- Stephen Hawking
+- Harvest -- Robert Charles Wilson
+- Mister Wonderful -- Daniel Clowes
+- Wolverine: Old Man Logan -- Mark Millar and Steve McNiven
+- Sobriety: A Graphic Novel -- Daniel D. Maurer and Spencer Amundson
+- The Eerie Silence -- Paul Davies
+- Science Set Free -- Rupert Sheldrake
 
-—September 2015 (Guelph)—
+## September 2015 (Moving to Guelph)
 
-- The Day of the Triffids—John Wyndham
-- Science Tales—Darryl Cunningham
-- Reinventing Comics—Scott McCloud
-- The Master Switch—Tim Wu
-- The City and the Stars—Arthur C. Clarke
+- The Day of the Triffids -- John Wyndham
+- Science Tales -- Darryl Cunningham
+- Reinventing Comics -- Scott McCloud
+- The Master Switch -- Tim Wu
+- The City and the Stars -- Arthur C. Clarke
 
-—October 2015—
+## October 2015
 
-- The Gift—Lewis Hyde
-- Out on the Wire: Storytelling Secrets of the New Masters of Radio—Jessica Abel
-- Scott Pilgrim series—Brian Lee O’Malley
-- Petrograd—Philip Gelatt and Tyler Crook
-- Last Days of an Immortal—Gwen de Bonneval and Fabien Kehlmann
-- Delphine—Richard Sala
-- The Cartoon History of the Modern World, Vol. 1—Larry Gonick
-- The Cartoon History of the Modern World, Vol. 2—Larry Gonick
+- The Gift -- Lewis Hyde
+- Out on the Wire: Storytelling Secrets of the New Masters of Radio -- Jessica Abel
+- Scott Pilgrim series -- Brian Lee O’Malley
+- Petrograd -- Philip Gelatt and Tyler Crook
+- Last Days of an Immortal -- Gwen de Bonneval and Fabien Kehlmann
+- Delphine -- Richard Sala
+- The Cartoon History of the Modern World, Vol. 1 -- Larry Gonick
+- The Cartoon History of the Modern World, Vol. 2 -- Larry Gonick
 
-—November 2015 (new job at LifeGlobal)—
+## November 2015 (new job at LifeGlobal)
 
-- Sir Wilfred Laurier and the Romance of Canada—Laurier L. Lapierre
-- The National Dream—Pierre Berton (x2)
-- The Heart Goes Last—Margaret Atwood
+- Sir Wilfred Laurier and the Romance of Canada -- Laurier L. Lapierre
+- The National Dream -- Pierre Berton (x2)
+- The Heart Goes Last -- Margaret Atwood
 
-—December 2015—
+## December 2015
 
-- Canada: An Illustrated History—Derek Hayes
+- Canada: An Illustrated History -- Derek Hayes
 - Cannabis in Canada: The Illustrated History
-- The Age of Selfishness—Darryl Cunningham
+- The Age of Selfishness -- Darryl Cunningham
 
-—January 2016—
+## January 2016
 
-- Transmetropolitan: Back on the Street—Warren Ellis and Darick Robertson
-- Transmetropolitan: Lust for Life—Warren Ellis and Darick Robertson
-- Transmetropolitan: Year of the Bastard—Warren Ellis and Darick Robertson
+- Transmetropolitan: Back on the Street -- Warren Ellis and Darick Robertson
+- Transmetropolitan: Lust for Life -- Warren Ellis and Darick Robertson
+- Transmetropolitan: Year of the Bastard -- Warren Ellis and Darick Robertson
 
-—February 2016—
+## February 2016
 
-- Transmetropolitan: The New Scum—Warren Ellis and Darick Robertson
-- Drawing for Everyone—Bruce Waldman
-- Transmetropolitan: Lonely City—Warren Ellis and Darick Robertson
-- Transmetropolitan: Gouge Away—Warren Ellis and Darick Robertson
-- Transmetropolitan: Spider’s Trash—Warren Ellis and Darick Robertson
+- Transmetropolitan: The New Scum -- Warren Ellis and Darick Robertson
+- Drawing for Everyone -- Bruce Waldman
+- Transmetropolitan: Lonely City -- Warren Ellis and Darick Robertson
+- Transmetropolitan: Gouge Away -- Warren Ellis and Darick Robertson
+- Transmetropolitan: Spider’s Trash -- Warren Ellis and Darick Robertson
 
-—March 2016—
+## March 2016
 
-- Transmetropolitan: The Dirge—Warren Ellis and Darick Robertson
-- Transmetropolitan: The Cure—Warren Ellis and Darick Robertson
-- Transmetropolitan: One More Time—Warren Ellis and Darick Robertson
+- Transmetropolitan: The Dirge -- Warren Ellis and Darick Robertson
+- Transmetropolitan: The Cure -- Warren Ellis and Darick Robertson
+- Transmetropolitan: One More Time -- Warren Ellis and Darick Robertson
 
-—April 2016—
+## April 2016
 
-- Hitler—Shigeru Mizuki
-- The Future Arab—Riad Sattouf
-- The Comic Book History of Comics—Fred VanLente and Ryan Dunlavey
-- The Bad Doctor—Ian Williams
+- Hitler -- Shigeru Mizuki
+- The Future Arab -- Riad Sattouf
+- The Comic Book History of Comics -- Fred VanLente and Ryan Dunlavey
+- The Bad Doctor -- Ian Williams
 
-—May 2016—
+## May 2016
 
-- World War One: A Graphic Novel—Alan Cowslip and Lalit Kuma Sharma
-- Oyster War—Ben Towle
-- Jerusalem: Chronicles from the Holy City—Guy Delisle
+- World War One: A Graphic Novel -- Alan Cowslip and Lalit Kuma Sharma
+- Oyster War -- Ben Towle
+- Jerusalem: Chronicles from the Holy City -- Guy Delisle
 
-—June 2016—
+## June 2016
 
-- Primates—Jim Ottiavani
-- Trees—Warren Ellis
-- Sam Zabel and the Magic Pen—Dylan Horrocks
-- The Merchant of Venice—Adapted by Gareth Hinds
-- Basic Economics—Thomas Sowell
-- Cartoon Utopia—Ron Rege Jr.
+- Primates -- Jim Ottiavani
+- Trees -- Warren Ellis
+- Sam Zabel and the Magic Pen -- Dylan Horrocks
+- The Merchant of Venice -- Adapted by Gareth Hinds
+- Basic Economics -- Thomas Sowell
+- Cartoon Utopia -- Ron Rege Jr.
 
-—July 2016—
+## July 2016
 
-- Macbeth—Gareth Hinds
-- The Sparrow—Mary Doria Russell
-- The Varieties of Scientific Experience—Carl Sagan
+- Macbeth -- Gareth Hinds
+- The Sparrow -- Mary Doria Russell
+- The Varieties of Scientific Experience -- Carl Sagan
 - Marx: Graphic Biography
-- The Chemical Muse—D.C.A Hillman
+- The Chemical Muse -- D.C.A Hillman
 
-—August 2016—
+## August 2016
 
-- Strange Fruit—Joel Christian Gill
-- Magicians of the Gods—Graham Hancock
-- A Midsummer Night’s Dream: Graphic Novel—Shakespeare
-- Sinfest: Volume 1—Tatsuya Ishida
-- A Wrinkle in Time: Graphic Novel—Medeleine L’Engle adapted by Hope Larson
-- The Greek Achievement—Charles Freeman
-- Northlanders, Vol. 1—Brian Wood
-- What’s So Great About Christianity—Dinesh D'souza
+- Strange Fruit -- Joel Christian Gill
+- Magicians of the Gods -- Graham Hancock
+- A Midsummer Night’s Dream: Graphic Novel -- Shakespeare
+- Sinfest: Volume 1 -- Tatsuya Ishida
+- A Wrinkle in Time: Graphic Novel -- Medeleine L’Engle adapted by Hope Larson
+- The Greek Achievement -- Charles Freeman
+- Northlanders, Vol. 1 -- Brian Wood
+- What’s So Great About Christianity -- Dinesh D'souza
 - For Better or for Worse: The Comic Art of Lynn Johnston
 
-—September 2016—
+## September 2016
 
-- Fahrenheit 451—Ray Bradbury
-- Is this one of those days, Dad? comics—Lynn Johnston
-- The Case for God—Karen Armstrong
+- Fahrenheit 451 -- Ray Bradbury
+- Is this one of those days, Dad? comics -- Lynn Johnston
+- The Case for God -- Karen Armstrong
 
-—October 2016— 
+## October 2016
 
-- Northlanders Book 2: The Cross and the Hammer—Brian Wood and Ryan Kelly
-- Northlanders Book 3: Blood in the Snow—Brian Wood
-- The Rise and Fall of the Third Reich—William Shirer
-- Tales of Mystery and Madness—Edgar Allen Poe and Gris Grimly
-- The Iliad—Homer
-- Ancient Rome: The Rise and Fall of an Empire—Simon Baker
+- Northlanders Book 2: The Cross and the Hammer -- Brian Wood and Ryan Kelly
+- Northlanders Book 3: Blood in the Snow -- Brian Wood
+- The Rise and Fall of the Third Reich -- William Shirer
+- Tales of Mystery and Madness -- Edgar Allen Poe and Gris Grimly
+- The Iliad -- Homer
+- Ancient Rome: The Rise and Fall of an Empire -- Simon Baker
 
-—November 2016— 
+## November 2016
 
-- Peanuts Vol. 7 - Charlie Schultz
-- The Doors of Perception and Heaven and Hell—Aldous Huxley
-- Dilbert: Freedom’s Just Another Word for People Finding Out You’re Useless—Scott Adams
-- Northlanders Book 4: The Plague Widow—Brian Wood
+- Peanuts Vol. 7 -- Charlie Schultz
+- The Doors of Perception and Heaven and Hell -- Aldous Huxley
+- Dilbert: Freedom’s Just Another Word for People Finding Out You’re Useless -- Scott Adams
+- Northlanders Book 4: The Plague Widow -- Brian Wood
 
-—December 2016—
+## December 2016
 
-- Ichiro—Ryan Inzana
-- Shogun—James Clavell- 
-- Seven Years of Highly Defective People (Dilbert)—Scott Adams
-- Northlanders Book 5: Metals—Brian Wood
-- Letter 44—Charles Soule
-- 47 Ronin—Mike Richardson and Stan Sakai
-- Northlanders Book 6: Thor’s Daughter—Brian Wood
+- Ichiro -- Ryan Inzana
+- Shogun -- James Clavell- 
+- Seven Years of Highly Defective People (Dilbert) -- Scott Adams
+- Northlanders Book 5: Metals -- Brian Wood
+- Letter 44 -- Charles Soule
+- 47 Ronin -- Mike Richardson and Stan Sakai
+- Northlanders Book 6: Thor’s Daughter -- Brian Wood
 
-—January 2017—
+## January 2017
 
-- How an Economy Grows and Why It Crashes—Peter Schiff
-- Northlanders: The Icelandic Trilogy—Brian Woods
-- Indeh—Ethan Hawke and Greg Ruth
-- DMZ, Vol. 1(Book 1 and 2)—Brian Wood
-- Japan: From Shogun to Sony—John Robertson
-- 47 Ronin—Mike Richardson and Stan Sakai (x2)
-- The Book of Five Rings (Graphic Novel)—Minamoto Musashi
-- DMZ, Public Works (Book 3)—Brian Wood
+- How an Economy Grows and Why It Crashes -- Peter Schiff
+- Northlanders: The Icelandic Trilogy -- Brian Woods
+- Indeh -- Ethan Hawke and Greg Ruth
+- DMZ, Vol. 1(Book 1 and 2) -- Brian Wood
+- Japan: From Shogun to Sony -- John Robertson
+- 47 Ronin -- Mike Richardson and Stan Sakai (x2)
+- The Book of Five Rings (Graphic Novel) -- Minamoto Musashi
+- DMZ, Public Works (Book 3) -- Brian Wood
 
-—February 2017 (trip to Belgium!)— 
+## February 2017 (trip to Belgium!)
 
-- Dilbert: Casual Day Has Gone Too Far—Scott Adams
-- DMZ, Friendly Fire (Book 4)—Brian Wood
-- How to Fail at Almost Everything and Still Win Big—Scott Adams
-- DMZ, The Hidden War (Book 5)—Brian Wood
-- Dilbert: I’m Tempted to Stop Acting Randomly—Scott Adams
+- Dilbert: Casual Day Has Gone Too Far -- Scott Adams
+- DMZ, Friendly Fire (Book 4) -- Brian Wood
+- How to Fail at Almost Everything and Still Win Big -- Scott Adams
+- DMZ, The Hidden War (Book 5) -- Brian Wood
+- Dilbert: I’m Tempted to Stop Acting Randomly -- Scott Adams
 
-—March 2017—
+## March 2017
 
-- The Bible Tells Me So—Peter Enns
-- DMZ, Blood in the Game (Book 6)—Brian Wood
-- DMZ, War Powers (Book 7)—Brian Wood
-- Octopus Pie, Vol. 1—Meredith Gran
+- The Bible Tells Me So -- Peter Enns
+- DMZ, Blood in the Game (Book 6) -- Brian Wood
+- DMZ, War Powers (Book 7) -- Brian Wood
+- Octopus Pie, Vol. 1 -- Meredith Gran
 
-—April 2017 (new apartment!)
+## April 2017 (new apartment!)
 
-- Game of Thrones Graphic Novel, vol. 1—George R. R. Martin
-- Game of Thrones Graphic Novel, vol. 2—George R.R. Martin
-- Game of Thrones Graphic Novel, vol. 3—George R.R. Martin
-- Game of Thrones Graphic Novel, vol. 4—George R.R. Martin
-- The Heroic Legend of Arslan, vol. 1—Yoshiki Tanaka and Hiromu Arakawa
-- Doonesbury, The Reagan Years—G.B. Trudeau
-- The Heroic Legend of Arslan, vol. 2—Yoshiki Tanaka and Hiromu Arakawa
-- The Mighty Alice: A Cul de Sac Collection—Richard Thompson
-- The Heroic Legend of Arslan, vol. 3—Yoshiki Tanaka and Hiromu Arakawa
-- The Heroic Legend of Arslan, vol. 4—Yoshiki Tanaka and Hiromu Arakawa
-- The Heroic Legend of Arslan, vol. 5—Yoshiki Tanaka and Hiromu Arakawa
-- On Liberty—John Stuart Mill
-- The Heroic Legend of Arslan, vol. 6—Yoshiki Tanaka and Hiromu Arakawa
+- Game of Thrones Graphic Novel, vol. 1 -- George R. R. Martin
+- Game of Thrones Graphic Novel, vol. 2 -- George R.R. Martin
+- Game of Thrones Graphic Novel, vol. 3 -- George R.R. Martin
+- Game of Thrones Graphic Novel, vol. 4 -- George R.R. Martin
+- The Heroic Legend of Arslan, vol. 1 -- Yoshiki Tanaka and Hiromu Arakawa
+- Doonesbury, The Reagan Years -- G.B. Trudeau
+- The Heroic Legend of Arslan, vol. 2 -- Yoshiki Tanaka and Hiromu Arakawa
+- The Mighty Alice: A Cul de Sac Collection -- Richard Thompson
+- The Heroic Legend of Arslan, vol. 3 -- Yoshiki Tanaka and Hiromu Arakawa
+- The Heroic Legend of Arslan, vol. 4 -- Yoshiki Tanaka and Hiromu Arakawa
+- The Heroic Legend of Arslan, vol. 5 -- Yoshiki Tanaka and Hiromu Arakawa
+- On Liberty -- John Stuart Mill
+- The Heroic Legend of Arslan, vol. 6 -- Yoshiki Tanaka and Hiromu Arakawa
 
-—May 2017—
+## May 2017
 
-- Full Metal Alchemist, vol. 1—Hiromu Arakawa
-- The Affinities—Robert Charles Wilson
-- Calvin and Hobbes: Complete Collection, vol 1—Bill Watterson
+- Full Metal Alchemist, vol. 1 -- Hiromu Arakawa
+- The Affinities -- Robert Charles Wilson
+- Calvin and Hobbes: Complete Collection, vol 1 -- Bill Watterson
 
-—June 2017—
+## June 2017
 
-- Memories, Dreams, Reflections—Carl Jung (x2)
-- Full Metal Alchemist, vol. 2—Hiromu Arakawa
-- Calvin and Hobbes: Tenth Anniversery Book—Bill Waterson
-- FullMetal Alchemish, vol. 3—Hiromu Arakawa
-- FullMetal Alchemist, vol. 4—Hiromu Arakawa
-- Einstein: His Life and Universe (audiobook)—Walter Isaacson
-- FullMetal Alchemist, vol. 5—Hiromu Arakawa
-- I, Robot—Isaac Asimov
-- FullMetal Alchemist, vol. 6—Hiromu Arakawa
-- FullMetal Alchemist, vol. 7—Hiromu Arakawa
+- Memories, Dreams, Reflections -- Carl Jung (x2)
+- Full Metal Alchemist, vol. 2 -- Hiromu Arakawa
+- Calvin and Hobbes: Tenth Anniversery Book -- Bill Waterson
+- FullMetal Alchemish, vol. 3 -- Hiromu Arakawa
+- FullMetal Alchemist, vol. 4 -- Hiromu Arakawa
+- Einstein: His Life and Universe (audiobook) -- Walter Isaacson
+- FullMetal Alchemist, vol. 5 -- Hiromu Arakawa
+- I, Robot -- Isaac Asimov
+- FullMetal Alchemist, vol. 6 -- Hiromu Arakawa
+- FullMetal Alchemist, vol. 7 -- Hiromu Arakawa
 
-—July 2017—
+## July 2017
 
-- FullMetal Alchemist, vol. 8—Hiromu Arakawa
-- FullMetal Alchemist, vol. 9—Hiromu Arakawa
-- The Caves of Steel—Isaac Asimov
-- DMT: The Spirit Molecule (audiobook)—Rick Strassman, M.D.
-- FullMetal Alchemist, vol. 10—Hiromu Arakawa
-- For Better or For Worse: Teaching is a Learning Experience—Lynn Johnston
-- The Cosmic Serpent (audiobook)—Jeremy Narby
-- The Three Body Problem—Cixin Liu
-- FullMetal Alchemist, vol. 11—Hiromu Arakawa
-- Food of the Gods (audiobook)—Terence Mckenna
-- Family Business (For Better or For Worse)—Lynn Johnston
-- Seeing Voices: A Journey Into the World of the Deaf—Oliver Sacks
-- The Ruby in the Smoke—Philip Pullman
+- FullMetal Alchemist, vol. 8 -- Hiromu Arakawa
+- FullMetal Alchemist, vol. 9 -- Hiromu Arakawa
+- The Caves of Steel -- Isaac Asimov
+- DMT: The Spirit Molecule (audiobook) -- Rick Strassman, M.D.
+- FullMetal Alchemist, vol. 10 -- Hiromu Arakawa
+- For Better or For Worse: Teaching is a Learning Experience -- Lynn Johnston
+- The Cosmic Serpent (audiobook) -- Jeremy Narby
+- The Three Body Problem -- Cixin Liu
+- FullMetal Alchemist, vol. 11 -- Hiromu Arakawa
+- Food of the Gods (audiobook) -- Terence Mckenna
+- Family Business (For Better or For Worse) -- Lynn Johnston
+- Seeing Voices: A Journey Into the World of the Deaf -- Oliver Sacks
+- The Ruby in the Smoke -- Philip Pullman
 
-—August 2017—
+## August 2017
 
-- Yuge! (Doonesbury)—G.B. Trudeau
-- Neurotribes (audiobook)—Steven Silberman
-- FullMetal Alchemist, vol. 12—Hiromu Arakawa
-- FullMetal Alchemist, vol. 13—Hiromu Arakawa
-- Octavian Nothing: Traitor to the Nation—M.T. Anderson
-- Maus (x2)—Art Spiegelman
+- Yuge! (Doonesbury) -- G.B. Trudeau
+- Neurotribes (audiobook) -- Steven Silberman
+- FullMetal Alchemist, vol. 12 -- Hiromu Arakawa
+- FullMetal Alchemist, vol. 13 -- Hiromu Arakawa
+- Octavian Nothing: Traitor to the Nation -- M.T. Anderson
+- Maus (x2) -- Art Spiegelman
 
-—September 2017—
+## September 2017
 
-- Planet Doonesbury—G.B Trudeau
-- The Road Back to You—Ian Morgan Cron and Suzanne Stabile
-- Blueprint for Armageddon (audio)—Dan Carlin
-- Story of the World, Vol 1: Ancient Times—Susan Wise Bauer
-- Homage to Catalonia (audiobook)—George Orwell
-- The Complete Calvin and Hobbes, v. 2—Bill Watterson
+- Planet Doonesbury -- G.B Trudeau
+- The Road Back to You -- Ian Morgan Cron and Suzanne Stabile
+- Blueprint for Armageddon (audio) -- Dan Carlin
+- Story of the World, Vol 1: Ancient Times -- Susan Wise Bauer
+- Homage to Catalonia (audiobook) -- George Orwell
+- The Complete Calvin and Hobbes, v. 2 -- Bill Watterson
 
-—October 2017—
+## October 2017
 
-- The Story of the World, vol 2: The Middle Ages—Susan Wise Bauer
+- The Story of the World, vol 2: The Middle Ages -- Susan Wise Bauer
 
-—November 2017—
+## November 2017
 
-- The Lessons of History (audiobook)—Will and Ariel Durant
-- Prophets of Doom (audio)—Dan Carlin
-- The Story of the World, vol 3: Early Modern Era—Susan Wise Bauer
-- The Cartoon History of the Universe, vol 1—Larry Gonick
+- The Lessons of History (audiobook) -- Will and Ariel Durant
+- Prophets of Doom (audio) -- Dan Carlin
+- The Story of the World, vol 3: Early Modern Era -- Susan Wise Bauer
+- The Cartoon History of the Universe, vol 1 -- Larry Gonick
 
-—December 2017—
+## December 2017
 
-- The Complete Calvin and Hobbes, v. 3—Bill Watterson
-- The Story of the World, vol 4: Susan Wise Bauer
-- Treasury of Egyptian Mythology—Donna Jo Napoli and Christina Balit
-- The New Revelations, A Conversation with God—Neale Donald Walsch
-- The Complete Calvin and Hobbes, v. 4—Bill Watterson
-- Conversations with God, book 4—Neale Donald Walsch
+- The Complete Calvin and Hobbes, v. 3 -- Bill Watterson
+- The Story of the World, vol 4 -- Susan Wise Bauer
+- Treasury of Egyptian Mythology -- Donna Jo Napoli and Christina Balit
+- The New Revelations, A Conversation with God -- Neale Donald Walsch
+- The Complete Calvin and Hobbes, v. 4 -- Bill Watterson
+- Conversations with God, book 4 -- Neale Donald Walsch
 
-—January 2018—
+## January 2018
 
-- Who Was Dr. Seuss—Janet B. Pascal
-- The Butter Battle Book—Dr. Seuss
-- You’re Only Old Once!—Dr. Seuss
-- And to Think That I Saw it on Mulberry Street—Dr. Seuss
-- McElligot’s Pool—Dr. Seuss
-- On Beyond Zebra—Dr. Seuss
-- Horton Hatches the Egg—Dr. Seuss
+- Who Was Dr. Seuss -- Janet B. Pascal
+- The Butter Battle Book -- Dr. Seuss
+- You’re Only Old Once! -- Dr. Seuss
+- And to Think That I Saw it on Mulberry Street -- Dr. Seuss
+- McElligot’s Pool -- Dr. Seuss
+- On Beyond Zebra -- Dr. Seuss
+- Horton Hatches the Egg -- Dr. Seuss
 
-—February 2018 (jaw surgery)—
+## February 2018 (jaw surgery)
 
-- Our Oriental Heritage—Will Durant
+- Our Oriental Heritage -- Will Durant
 
-—March 2018—
+## March 2018
 
-- The Golden Compass—Phillip Pullman
-- 12 Rules for Life: An Antidote to Chaos—Jordan Peterson
-- Thinking, Fast and Slow—Daniel Kahneman
+- The Golden Compass -- Phillip Pullman
+- 12 Rules for Life: An Antidote to Chaos -- Jordan Peterson
+- Thinking, Fast and Slow -- Daniel Kahneman
 
-—April 2018—
+## April 2018
 
-- The Winds of War—Herman Wouk
-- Simply Christian—NT Wright
-- The Reason for God—Timothy Keller
+- The Winds of War -- Herman Wouk
+- Simply Christian -- NT Wright
+- The Reason for God -- Timothy Keller
 
-—May 2018—
+## May 2018
 
 …
 
-—June 2018—
+## June 2018
 
-- Ishmael—Daniel Quinn
-- Dr. Seuss and Mr. Geisel—Judith and Neil Morgan
+- Ishmael -- Daniel Quinn
+- Dr. Seuss and Mr. Geisel -- Judith and Neil Morgan
 
-—July 2018—
+## July 2018
 
-- Chocky—John Wyndham
-- The Illustrated Man—Ray Bradbury
-- The Martian Chronicles—Ray Bradbury
+- Chocky -- John Wyndham
+- The Illustrated Man -- Ray Bradbury
+- The Martian Chronicles -- Ray Bradbury
 
-—August 2018—
+## August 2018
 
-- Amusing Ourselves to Death—Neil Postman
-- Last Year—Robert Charles Wilson
-- Roma—Steven Saylor
+- Amusing Ourselves to Death -- Neil Postman
+- Last Year -- Robert Charles Wilson
+- Roma -- Steven Saylor
 
-—September 2018 (End of LifeGlobal)—
+## September 2018 (End of LifeGlobal)
 
-- Rise to Rebellion—Jeff Shaara
-- The Imitation Game: Alan Turing Decoded—Jim Ottaviani and Leland Purvis
-- Battle Lines: A Graphic History of the Civil War—Jonathan Fetter-Vorm and Ari Kelman
+- Rise to Rebellion -- Jeff Shaara
+- The Imitation Game: Alan Turing Decoded -- Jim Ottaviani and Leland Purvis
+- Battle Lines: A Graphic History of the Civil War -- Jonathan Fetter-Vorm and Ari Kelman
 
-—October 2018 (Sober October)—
+## October 2018 (Sober October)
 
-- The Loxleys and Confederation—Mark Zuehlke, Claude St. Aubin, Alexander Finbow, Niigaanwewidam Sinclair
-- The Scarlet Letter—Nathaniel Hawthorne
-- A Theology of the Ordinary—Julie Canlis
-- How to Read a Book—Mortimer Adler and Charles Van Doren
+- The Loxleys and Confederation -- Mark Zuehlke, Claude St. Aubin, Alexander Finbow, Niigaanwewidam Sinclair
+- The Scarlet Letter -- Nathaniel Hawthorne
+- A Theology of the Ordinary -- Julie Canlis
+- How to Read a Book -- Mortimer Adler and Charles Van Doren
 - Our Story: Aboriginal Voices on Canada’s Past
-- Aristotle for Everybody—Mortimer Adler
-- The Heroic Legend of Arslan, vol. 7-9—Yoshiki Tanaka and Hiromu Arakawa
+- Aristotle for Everybody -- Mortimer Adler
+- The Heroic Legend of Arslan, vol. 7-9 -- Yoshiki Tanaka and Hiromu Arakawa
 
-—November 2018—
+## November 2018
 
-- Jesus: A Biography from a Believer—Paul Johnson
-- The Story of Philosophy—Will Durant
-- The Great Code: The Bible and Literature—Northrop Frye
-- The Medium is the Massage—Marshall Mcluhan and Quentin Fiore
-- Ocean—Warren Ellis
-- Looking for Calvin and Hobbes—Nevin Martell
+- Jesus: A Biography from a Believer -- Paul Johnson
+- The Story of Philosophy -- Will Durant
+- The Great Code: The Bible and Literature -- Northrop Frye
+- The Medium is the Massage -- Marshall Mcluhan and Quentin Fiore
+- Ocean -- Warren Ellis
+- Looking for Calvin and Hobbes -- Nevin Martell
 
-—December 2018—
+## December 2018
 
-- The Demon-Haunted World: Science as a Candle in the Dark—Carl Sagan
+- The Demon-Haunted World: Science as a Candle in the Dark -- Carl Sagan
 
-—January 2019—
+## January 2019
 
-- Harry Potter and the Goblet of Fire—JK Rowling
-- Let Your Life Speak: Listening to the Voice of Vocation—Parker J. Palmer
-- Harry Potter and the Order of the Phoenix—JK Rowling
+- Harry Potter and the Goblet of Fire -- JK Rowling
+- Let Your Life Speak: Listening to the Voice of Vocation -- Parker J. Palmer
+- Harry Potter and the Order of the Phoenix -- JK Rowling
 
-—February 2019—
+## February 2019
 
-- Harry Potter and the Half-Blood Prince—JK Rowling
-- No News is Bad News—Ian Gill
-- Harry Potter and the Deathly Hallows—JK Rowling
-- Private Eye—Brian K. Vaughan, Marcos Martin, Muntsa Vicente
+- Harry Potter and the Half-Blood Prince -- JK Rowling
+- No News is Bad News -- Ian Gill
+- Harry Potter and the Deathly Hallows -- JK Rowling
+- Private Eye -- Brian K. Vaughan, Marcos Martin, Muntsa Vicente
 
-—March 2019—
+## March 2019
 
-- So You Want to Be a Coder?—Jane Bedell
-- Saga, vol 1—Brian K Vaughan and Fiona Staples
-- Saga, vol 2—Brian K Vaughan and Fiona Staples
-- Secret Coders—Gene Luen Yang and Mike Holmes
-- Saga, vol 3—Brian K Vaughan and Fiona Staples
-- Saga, vol 4—Brian K Vaughan and Fiona Staples
-- Saga, vol 5—Brian K Vaughan and Fiona Staples
-- Saga, vol 6—Brian K Vaughan and Fiona Staples
-- Saga, vol 7—Brian K Vaughan and Fiona Staples
-- Secret Coders: Paths and Pathways—Gene Luen Yang and Mike Holmes
-- I, Claudius—Robert Graves
-- Hostage—Guy Delisle
-- Ten Arguments for Deleting Your Social Media Accounts Right Now—Jaron Lanier
-- Secret Coders: Secrets and Sequences—Gene Luen Yang and Mike Holmes
+- So You Want to Be a Coder? -- Jane Bedell
+- Saga, vol 1 -- Brian K Vaughan and Fiona Staples
+- Saga, vol 2 -- Brian K Vaughan and Fiona Staples
+- Secret Coders -- Gene Luen Yang and Mike Holmes
+- Saga, vol 3 -- Brian K Vaughan and Fiona Staples
+- Saga, vol 4 -- Brian K Vaughan and Fiona Staples
+- Saga, vol 5 -- Brian K Vaughan and Fiona Staples
+- Saga, vol 6 -- Brian K Vaughan and Fiona Staples
+- Saga, vol 7 -- Brian K Vaughan and Fiona Staples
+- Secret Coders: Paths and Pathways -- Gene Luen Yang and Mike Holmes
+- I, Claudius -- Robert Graves
+- Hostage -- Guy Delisle
+- Ten Arguments for Deleting Your Social Media Accounts Right Now -- Jaron Lanier
+- Secret Coders: Secrets and Sequences -- Gene Luen Yang and Mike Holmes
 
-—April 2019—
+## April 2019
 
-- Ode to Kirihito—Osamu Tezuka
-- Fall of Giants—Ken Follett
+- Ode to Kirihito -- Osamu Tezuka
+- Fall of Giants -- Ken Follett
 
-—May 2019—
+## May 2019
 
-- The World Was Never the Same: Turning Points in World History (Great Courses)—Robert Fears
-- Sapiens—Yuval Noah Harari
-- Secret Coders: Robots and Repeats—Gene Luen Yang and Mike Holmes
+- The World Was Never the Same: Turning Points in World History (Great Courses) -- Robert Fears
+- Sapiens -- Yuval Noah Harari
+- Secret Coders: Robots and Repeats -- Gene Luen Yang and Mike Holmes
 
-—June 2019—
+## June 2019
 
-- The Last Kingdom—Bernard Cornwell
-- Beowulf—Santiago Garcia and David Rubin
-- Surprised By Joy—CS Lewis
+- The Last Kingdom -- Bernard Cornwell
+- Beowulf -- Santiago Garcia and David Rubin
+- Surprised By Joy -- CS Lewis
 
-—July 2019—
+## July 2019
 
-- History in English Words—Owen Barfield
-- The Left Hand of Darkness—Ursula K. Le Guin
+- History in English Words -- Owen Barfield
+- The Left Hand of Darkness -- Ursula K. Le Guin
 
-—August 2019—
+## August 2019
 
-- Creation—Gore Vidal
-- Habibi—Craig Thompson
-- Fire Upon the Deep—Vernor Vinge
-- Astrophysics for Young People in a Hurry—Neil DeGrasse Tyson
+- Creation -- Gore Vidal
+- Habibi -- Craig Thompson
+- Fire Upon the Deep -- Vernor Vinge
+- Astrophysics for Young People in a Hurry -- Neil DeGrasse Tyson
 
---September 2019 (Conestoga College)--
+## September 2019 (Conestoga College)
 
-- The Epic of Gilgamesh--Kent and Kevin Dixon
-- The Little Book of Cannabis--Amanda Siebert
-- True Hallucinations--Terence Mckenna
-- The Sacred Enneagram--Chris Heuertz
-- The Black Company--Glen Cook
+- The Epic of Gilgamesh -- Kent and Kevin Dixon
+- The Little Book of Cannabis -- Amanda Siebert
+- True Hallucinations -- Terence Mckenna
+- The Sacred Enneagram -- Chris Heuertz
+- The Black Company -- Glen Cook
 
---October 2019--
+## October 2019
 
-- Follow Your Gut--Rob Knight and Brendan Buhler
-- Thomas Merton: A Spiritual Guide for the Twenty-First Centure--Anthony Ciorra
-- Empire--Steven Saylor
-- Modern Scholar: The Medieval World, Part I--Thomas Madden
+- Follow Your Gut -- Rob Knight and Brendan Buhler
+- Thomas Merton: A Spiritual Guide for the Twenty-First Centure -- Anthony Ciorra
+- Empire -- Steven Saylor
+- Modern Scholar: The Medieval World, Part I -- Thomas Madden
 
---November 2019--
+## November 2019
 
-- Paradise Lost--John Milton
+- Paradise Lost -- John Milton
 
---December 2019--
+## December 2019
 
-- What is the Bible--Rob Bell
-- The Shack--William P. Young
-- Tai-Pan--James Clavell
-- Cannabis: The Illegalization of Weed in America--Box Brown
+- What is the Bible -- Rob Bell
+- The Shack -- William P. Young
+- Tai-Pan -- James Clavell
+- Cannabis: The Illegalization of Weed in America -- Box Brown
 
---January 2020--
+## January 2020
 
-- Vimy--Pierre Berton
-- Anne Frank's Diary: The Graphic Adaptation--Adapted by Ari Folman and Illustrated by David Polonsky
-No Ordinary Time--Doris Kearns Goodwin
-- Defying Hitler--Sebastian Heffner
+- Vimy -- Pierre Berton
+- Anne Frank's Diary: The Graphic Adaptation -- Adapted by Ari Folman and Illustrated by David Polonsky
+- No Ordinary Time -- Doris Kearns Goodwin
+- Defying Hitler -- Sebastian Heffner
 
---February 2020--
+## February 2020
 
-- Anna Karenina--Leo Tolstoy
-- Searching for Sunday--Rachel Held Evans
+- Anna Karenina -- Leo Tolstoy
+- Searching for Sunday -- Rachel Held Evans
 
---March 2020 (Coronavirus)--
+## March 2020 (Coronavirus)
 
-- Reality, Art, and Illusion--Alan Watts
-- The Rise and Fall of Alexandria--Justin Pollard and Howard Reid
-- From Jesus to Constantine: A History of Early Christianity--Bart D. Ehrman
-- Hamlet--Shakespeare
-- Man's Search for Meaning--Victor Frankl
-- Maus II--Art Spiegelman
-- A Short History of the Netherlands--Dr. PJAN Rietbergen
+- Reality, Art, and Illusion -- Alan Watts
+- The Rise and Fall of Alexandria -- Justin Pollard and Howard Reid
+- From Jesus to Constantine: A History of Early Christianity -- Bart D. Ehrman
+- Hamlet -- Shakespeare
+- Man's Search for Meaning -- Victor Frankl
+- Maus II -- Art Spiegelman
+- A Short History of the Netherlands -- Dr. PJAN Rietbergen
 
---April 2020--
+## April 2020
 
-- Frisian and Free--Mahmood
-- Mindful Silence--Phileena Heuertz
-- Computing: A Concise History--Paul Ceruzzi
-- Velvet Elvis: Repainting the Christian Faith--Rob Bell
+- Frisian and Free -- Mahmood
+- Mindful Silence -- Phileena Heuertz
+- Computing: A Concise History -- Paul Ceruzzi
+- Velvet Elvis: Repainting the Christian Faith -- Rob Bell
 
---May 2020--
+## May 2020
 
-- Love Wins--Rob Bell
-- Gai-Jin--James Clavell
-- A Jest of God--Margaret Laurence
+- Love Wins -- Rob Bell
+- Gai-Jin -- James Clavell
+- A Jest of God -- Margaret Laurence
 
---June 2020--
+## June 2020
 
-- Don't Make Me Think--Steve Krug
-- Engaging Learning--Clark Quinn
-- Archangel--William Gibson
-- Acid Trip Report--Alex Gibbons
-- Shroom Trip Report--Alex Gibbons
+- Don't Make Me Think -- Steve Krug
+- Engaging Learning -- Clark Quinn
+- Archangel -- William Gibson
+- Acid Trip Report -- Alex Gibbons
+- Shroom Trip Report -- Alex Gibbons
 
---July 2020--
+## July 2020
 
-- High Time for Heroes--Mary Pope Osborne
-- The Design of Everyday Things--Don Norman
-- I am Abraham--Jerome Charyn
+- High Time for Heroes -- Mary Pope Osborne
+- The Design of Everyday Things -- Don Norman
+- I am Abraham -- Jerome Charyn
 
---August 2020--
+## August 2020
 
-- The Diamond Age--Neal Stephenson
-- How to Change Your Mind--Michael Pollan
-- Hallucinations--Oliver Sachs
-- The Varieties of Scientific Experience--Carl Sagan
+- The Diamond Age -- Neal Stephenson
+- How to Change Your Mind -- Michael Pollan
+- Hallucinations -- Oliver Sachs
+- The Varieties of Scientific Experience -- Carl Sagan
 
---September 2020--
+## September 2020
 
-- My Years as Prime Minister--Jean Chretien
-- Empire--Orson Scott Card
-- The Martian--Andy Weir
-- Ender's Game--Orson Scott Card
-- Artemis--Andy Weir
+- My Years as Prime Minister -- Jean Chretien
+- Empire -- Orson Scott Card
+- The Martian -- Andy Weir
+- Ender's Game -- Orson Scott Card
+- Artemis -- Andy Weir
 
---October 2020--
+## October 2020
 
-- The Problems of Philosophy--Bertrand Russell
-- The Life-Changing Magic of Tidying Up--Marie Kondo
-- The Odyssey--Homer (ed. by Emily Wilson)
-- Speaker for the Dead--Orson Scott Card
-- Berlin: Books 1, 2, and 3--Jason Lutes
+- The Problems of Philosophy -- Bertrand Russell
+- The Life-Changing Magic of Tidying Up -- Marie Kondo
+- The Odyssey -- Homer (ed. by Emily Wilson)
+- Speaker for the Dead -- Orson Scott Card
+- Berlin: Books 1, 2, and 3 -- Jason Lutes
 
---November 2020--
+## November 2020
 
-- Regeneration--Pat Barker
-- All Quiet on the Western Front--Erich Maria Remarque
-- World War II: A Military and Social History--Thomas Childers
-- The War that Ended Peace: The Road to 1914--Margaret MacMillan
+- Regeneration -- Pat Barker
+- All Quiet on the Western Front -- Erich Maria Remarque
+- World War II: A Military and Social History -- Thomas Childers
+- The War that Ended Peace: The Road to 1914 -- Margaret MacMillan
 
---December 2020--
+## December 2020
 
-- The Roman Empire: From Augustus to the Fall of Rome--Gregory S. Aldrete
-- Xenocide--Orson Scott Card
-- Warlords: Borden, Mackenzie King, and Canada's World Wars--Tim Cook
-- Seventh Son--Orson Scott Card
-- Tomorrow's God--Neale Donald Walsch
-- Beyond Freedom and Dignity--B.F. Skinner
-- Ender's Shadow--Orson Scott Card
+- The Roman Empire: From Augustus to the Fall of Rome -- Gregory S. Aldrete
+- Xenocide -- Orson Scott Card
+- Warlords: Borden, Mackenzie King, and Canada's World Wars -- Tim Cook
+- Seventh Son -- Orson Scott Card
+- Tomorrow's God -- Neale Donald Walsch
+- Beyond Freedom and Dignity -- B.F. Skinner
+- Ender's Shadow -- Orson Scott Card
 
---January 2021--
+## January 2021
 
-- Sid Meier's Memoir--Sid Meier
-- Ready Player One--Ernest Cline
-- An Illustrated History of UFOs--Adam Allsuch Boardman
-- HP Lovecraft's At the Mountains of Madness, Vol. 1--Gou Tanabe
+- Sid Meier's Memoir -- Sid Meier
+- Ready Player One -- Ernest Cline
+- An Illustrated History of UFOs -- Adam Allsuch Boardman
+- HP Lovecraft's At the Mountains of Madness, Vol. 1 -- Gou Tanabe
 
---February 2021--
+## February 2021
 
-- Assassin's Apprentice--Robin Hobb
+- Assassin's Apprentice -- Robin Hobb
 
---March 2021--
+## March 2021
 
 - Proverbs
-- The French Revolution--Thomas Carlyle
-- 12 Rules for Life--Jordan Peterson(x2)
-- What's Happened to Politics--Bob Rae
-- The Reformation--Turning Points in World History
-- Communism: A History--Richard Pipes
+- The French Revolution -- Thomas Carlyle
+- 12 Rules for Life -- Jordan Peterson(x2)
+- What's Happened to Politics -- Bob Rae
+- The Reformation -- Turning Points in World History
+- Communism: A History -- Richard Pipes
 
---April 2021--
+## April 2021
 
-- Beyond Order: 12 More Rules for Life--Jordan Peterson
-- Mathematics--Mike Askew
-- Pride and Prejudice--Jane Austen
-- Mao: A Wicked History--Kimberley Heuston
-- Mao Zedong: Penguin Lives--Jonathan Spence
-- The Madness of Crowds--Douglas Murray
-- Discipline Equals Freedom: Field Manual--Jocko Willink
-- The Coddling of the American Mind--Greg Lukianoff and Jonathan Haidt
+- Beyond Order: 12 More Rules for Life -- Jordan Peterson
+- Mathematics -- Mike Askew
+- Pride and Prejudice -- Jane Austen
+- Mao: A Wicked History -- Kimberley Heuston
+- Mao Zedong: Penguin Lives -- Jonathan Spence
+- The Madness of Crowds -- Douglas Murray
+- Discipline Equals Freedom: Field Manual -- Jocko Willink
+- The Coddling of the American Mind -- Greg Lukianoff and Jonathan Haidt
 
---May 2021 (Vehikl)--
+## May 2021 (Vehikl)
 
-- The Worry Cure--Robert Leahy
-- The Goal--Eliyahu Goldratt
+- The Worry Cure -- Robert Leahy
+- The Goal -- Eliyahu Goldratt
 
---June 2021--
+## June 2021
 
-- Mindset--Carol Dweck
-- Apprenticeship Patterns--David Hoover
+- Mindset -- Carol Dweck
+- Apprenticeship Patterns -- David Hoover
 
---July 2021--
+## July 2021
 
-- The Passionate Programmer--Chad Fowler
+- The Passionate Programmer -- Chad Fowler
 
