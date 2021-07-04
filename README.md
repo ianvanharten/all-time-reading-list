@@ -426,112 +426,109 @@
 
 ## January 2014
 
-- Jayber Crow--Wendell Berry
-- Annabel--Kathleen Winter
-- Quiet--Susan Cain
-- Half-Blood Blues--EsiEdugyan
-- The Teachings of Don Juan--Carlos Castaneda
-- The Year of the Flood (x2)--Margaret Atwood
+- Jayber Crow -- Wendell Berry
+- Annabel -- Kathleen Winter
+- Quiet -- Susan Cain
+- Half-Blood Blues -- EsiEdugyan
+- The Teachings of Don Juan -- Carlos Castaneda
+- The Year of the Flood (x2) -- Margaret Atwood
 
-—February 2014—
+## February 2014
 
-- Maddaddam—Margaret Atwood
-- History in English Words—Owen Barfield
+- Maddaddam -- Margaret Atwood
+- History in English Words -- Owen Barfield
 - Mushrooms: Psychedelic Fungi
-- From Chocolate to Morphine—Andrew Weil and Winifred Rosen
+- From Chocolate to Morphine -- Andrew Weil and Winifred Rosen
 
-—March 2014—
+## March 2014
 
 - A Field Guide to Lucid Dreaming
-- The Chronicles of Narnia—CS Lewis
-- The Plot—Will Eisner
-- The Odyssey—Gareth Hinds
-- The Dreamer—Will Eisner
-- A Short History of Mythology—Karen Armstrong
+- The Chronicles of Narnia -- CS Lewis
+- The Plot -- Will Eisner
+- The Odyssey -- Gareth Hinds
+- The Dreamer -- Will Eisner
+- A Short History of Mythology -- Karen Armstrong
 
-—April 2014—
+## April 2014
 
-- Zen Guitar—Philip Toshio Sudo
-- Black Robes and Buckskins: A Selection from the Jesuit Relations—Catherine Randall
-- Boxers—Gene Luen Yang
-- The Voyages of Jacques Cartier—Jacques Cartier
-- A Chinese Life—Li Kunwu and P. Otie
-- The First Canadian—C.T. Ritchie
-- Hemp Horizons—John W. Roulac
+- Zen Guitar -- Philip Toshio Sudo
+- Black Robes and Buckskins: A Selection from the Jesuit Relations -- Catherine Randall
+- Boxers -- Gene Luen Yang
+- The Voyages of Jacques Cartier -- Jacques Cartier
+- A Chinese Life -- Li Kunwu and P. Otie
+- The First Canadian -- C.T. Ritchie
+- Hemp Horizons -- John W. Roulac
 
 —May 2014—
 
-- Bud Inc. — Ian Mulgrew
-- Neurocomic — Matteo Farinella and Hana Ros
-- But I Like It—Joe Sacco
-- Waging Heavy Peace—Neil Young
-- Journalism—Joe Sacco
-- Memoirs—Pierre Elliot Trudeau
-- Consilience—EO Wilson
+- Bud Inc. -- Ian Mulgrew
+- Neurocomic -- Matteo Farinella and Hana Ros
+- But I Like It -- Joe Sacco
+- Waging Heavy Peace -- Neil Young
+- Journalism -- Joe Sacco
+- Memoirs -- Pierre Elliot Trudeau
+- Consilience -- EO Wilson
 
-—June 2014—
+## June 2014
 
-- William Blake: His Life—James King
+- William Blake: His Life -- James King
 - The Brain that Changes Itself
-- Understanding Comics—Scott McCloud (x2)
-- I AMness—Ian Kent and William Nicholls
+- Understanding Comics -- Scott McCloud (x2)
+- I AMness -- Ian Kent and William Nicholls
 
-—July 2014—
+## July 2014
 
-- Burning Paradise—Robert Charles Wilson
-- The Interpretation of Dreams—Sigmund Freud
-- Food of the Gods (x2)—Terence Mckenna
-- Autism: The Facts—Simon Baron Cohen and Patrick Bolton
-- Darwin: A Graphic Biography—Eugene Byrne
-- Not Even Wrong—Paul Collins
-- Spark: A Mother’s Story of Nurturing Genius—Kristine Barnett
-- The Magic of Reality (x2)—Richard Dawkins and Dave Mckean
-- A Graphic Biography of Malcolm X—Andrew Helfer and Randy DuBurke
+- Burning Paradise -- Robert Charles Wilson
+- The Interpretation of Dreams -- Sigmund Freud
+- Food of the Gods (x2) -- Terence Mckenna
+- Autism: The Facts -- Simon Baron Cohen and Patrick Bolton
+- Darwin: A Graphic Biography -- Eugene Byrne
+- Not Even Wrong -- Paul Collins
+- Spark: A Mother’s Story of Nurturing Genius -- Kristine Barnett
+- The Magic of Reality (x2) -- Richard Dawkins and Dave Mckean
+- A Graphic Biography of Malcolm X -- Andrew Helfer and Randy DuBurke
 
-—August 2014—
+## August 2014
 
-- Burning Paradise (x2)—Robert Charles Wilson
-- Gonzo: A Graphic Biography of Hunter S. Thompson—Will Bingley and Anthony Hope-Smith
-- The Stuff of Life—Mark Schultz
-- 11/22/63—Stephen King
-- Saints—Gen Luen Yang
-- The Ascent of Man (x2)—Jacob Bronowski
+- Burning Paradise (x2) -- Robert Charles Wilson
+- Gonzo: A Graphic Biography of Hunter S. Thompson -- Will Bingley and Anthony Hope-Smith
+- The Stuff of Life -- Mark Schultz
+- 11/22/63 -- Stephen King
+- Saints -- Gen Luen Yang
+- The Ascent of Man (x2) -- Jacob Bronowski
 
-—September 2014—
+## September 2014
 
-- The Girl with the Dragon Tattoo—Stieg Larsson
-- The Brotherhood of the Screaming Abyss—Dennis Mckenna
-- The Girl Who Played with Fire—Stieg Larsson
+- The Girl with the Dragon Tattoo -- Stieg Larsson
+- The Brotherhood of the Screaming Abyss -- Dennis Mckenna
+- The Girl Who Played with Fire -- Stieg Larsson
 
-—October 2014—
+## October 2014
 
-- The Girl Who Kicked the Hornet’s Nest—Stieg Larsson
-- The Chalice and the Blade—Riane Eisler
-- The Light of Other Days—Arthur Clarke and Stephen Baxter
-- Sex at Dawn—Chris Ryan
+- The Girl Who Kicked the Hornet’s Nest -- Stieg Larsson
+- The Chalice and the Blade -- Riane Eisler
+- The Light of Other Days -- Arthur Clarke and Stephen Baxter
+- Sex at Dawn -- Chris Ryan
 
-—November 2014—
+## November 2014
 
-- Poetic Diction — Owen Barfield
-- V for Vendetta — Alan Moore
-- The Songs of Distant Earth—Arthur Clarke
-- 2001: A Space Odyssey—Arthur Clarke
-- The Puppet Masters—Robert Heinlein
-- Rendevous with Rama—Arthur Clarke
-- Rama II—Arthur Clarke
-- Pebble in the Sky—Isaac Asimov
+- Poetic Diction -- Owen Barfield
+- V for Vendetta -- Alan Moore
+- The Songs of Distant Earth -- Arthur Clarke
+- 2001: A Space Odyssey -- Arthur Clarke
+- The Puppet Masters -- Robert Heinlein
+- Rendevous with Rama -- Arthur Clarke
+- Rama II -- Arthur Clarke
+- Pebble in the Sky -- Isaac Asimov
 
-—December 2014—
+## December 2014
 
-The Sirens of Titan—Kurt Vonnegut (x2)
+- The Sirens of Titan -- Kurt Vonnegut (x2)
+- Childhood’s End -- Arthur Clarke (x2)
+- Promethea -- Alan Moore (x2)
+- 2010: Space Odyssey Two -- Arthur Clarke
 
-Childhood’s End—Arthur Clarke (x2)
-
-Promethea—Alan Moore (x2)
-
-2010: Space Odyssey Two—Arthur Clarke
-
-—January 2015—
+## January 2015
 
 Beyond Belief: Secret Life Inside Scientology—Jenna Miscavige Hill
 
