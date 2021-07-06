@@ -1135,4 +1135,5 @@
 ## July 2021
 
 - The Passionate Programmer -- Chad Fowler
+- Of Mice and Men -- John Steinbeck
 
