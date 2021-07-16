@@ -1136,4 +1136,5 @@
 
 - The Passionate Programmer -- Chad Fowler
 - Of Mice and Men -- John Steinbeck
+- Microserfs -- Douglas Coupland
 
