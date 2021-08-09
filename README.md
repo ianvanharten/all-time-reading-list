@@ -1138,3 +1138,7 @@
 - Of Mice and Men -- John Steinbeck
 - Microserfs -- Douglas Coupland
 
+## August 2021
+
+- The Innovators -- Walter Isaacson
+
