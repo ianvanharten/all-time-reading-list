@@ -1141,4 +1141,5 @@
 ## August 2021
 
 - The Innovators -- Walter Isaacson
+- Reinventing Comics -- Scott McCloud
 
