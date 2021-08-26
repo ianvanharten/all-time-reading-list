@@ -1142,4 +1142,5 @@
 
 - The Innovators -- Walter Isaacson
 - Reinventing Comics -- Scott McCloud
+- Understanding Media -- Marshall Mcluhan
 
