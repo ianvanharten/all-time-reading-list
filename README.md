@@ -1144,3 +1144,7 @@
 - Reinventing Comics -- Scott McCloud
 - Understanding Media -- Marshall Mcluhan
 
+## September 2021
+
+- Klara and the Sun -- Kazuo Ishiguro
+
