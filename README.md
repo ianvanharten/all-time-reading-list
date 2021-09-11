@@ -1147,4 +1147,5 @@
 ## September 2021
 
 - Klara and the Sun -- Kazuo Ishiguro
+- Enchantress of Numbers: A Novel of Ada Lovelace -- Jennifer Chiaverini
 
