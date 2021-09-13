@@ -1148,4 +1148,5 @@
 
 - Klara and the Sun -- Kazuo Ishiguro
 - Enchantress of Numbers: A Novel of Ada Lovelace -- Jennifer Chiaverini
+- Descender: Book 1 -- Jeff Lemire and Dustin Nguyen
 
