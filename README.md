@@ -1150,4 +1150,5 @@
 - Enchantress of Numbers: A Novel of Ada Lovelace -- Jennifer Chiaverini
 - Descender: Book 1 -- Jeff Lemire and Dustin Nguyen
 - Descender: Book 2 -- Jeff Lemire and Dustin Nguyen
+- Descender: Book 3 -- Jeff Lemire and Dustin Nguyen
 
