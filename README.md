@@ -1151,4 +1151,5 @@
 - Descender: Book 1 -- Jeff Lemire and Dustin Nguyen
 - Descender: Book 2 -- Jeff Lemire and Dustin Nguyen
 - Descender: Book 3 -- Jeff Lemire and Dustin Nguyen
+- Ada's Algorithm -- James Essinger
 
