@@ -1153,4 +1153,6 @@
 - Descender: Book 3 -- Jeff Lemire and Dustin Nguyen
 - Ada's Algorithm -- James Essinger
 - Essex County -- Jeff Lemire
+- The Underwater Welder -- Jeff Lemire
+- Drawing on the Right Side of the Brain -- Betty Edwards
 
