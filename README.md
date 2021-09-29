@@ -1155,4 +1155,5 @@
 - Essex County -- Jeff Lemire
 - The Underwater Welder -- Jeff Lemire
 - Drawing on the Right Side of the Brain -- Betty Edwards
+- Roughneck -- Jeff Lemire
 
