@@ -1157,3 +1157,6 @@
 - Drawing on the Right Side of the Brain -- Betty Edwards
 - Roughneck -- Jeff Lemire
 
+## October 2021
+
+- Injection -- Warren Ellis
