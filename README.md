@@ -1160,3 +1160,4 @@
 ## October 2021
 
 - Injection -- Warren Ellis
+- Paying the Land -- Joe Sacco
