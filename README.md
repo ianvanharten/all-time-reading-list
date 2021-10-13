@@ -1162,3 +1162,4 @@
 - Injection -- Warren Ellis
 - Paying the Land -- Joe Sacco
 - Black Road, vol 1 -- Brian Wood
+- Philip K. Dick: A Comics Biography -- Laurent Queyssi and Mauro Marchesi
