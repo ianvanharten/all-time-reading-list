@@ -1163,3 +1163,4 @@
 - Paying the Land -- Joe Sacco
 - Black Road, vol 1 -- Brian Wood
 - Philip K. Dick: A Comics Biography -- Laurent Queyssi and Mauro Marchesi
+- Black Road, vol 2 -- Brian Wood
