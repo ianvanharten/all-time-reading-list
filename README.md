@@ -1165,3 +1165,4 @@
 - Philip K. Dick: A Comics Biography -- Laurent Queyssi and Mauro Marchesi
 - Black Road, vol 2 -- Brian Wood
 - Templar -- Jordan Mechner
+- The Walking Dead, Compendium One -- Robert Kirkman
