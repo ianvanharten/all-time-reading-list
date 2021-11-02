@@ -1166,3 +1166,7 @@
 - Black Road, vol 2 -- Brian Wood
 - Templar -- Jordan Mechner
 - The Walking Dead, Compendium One -- Robert Kirkman
+
+## November 2021
+
+- The Walking Dead, Compendium Two -- Robert Kirkman
