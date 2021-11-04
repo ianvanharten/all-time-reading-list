@@ -1170,3 +1170,4 @@
 ## November 2021
 
 - The Walking Dead, Compendium Two -- Robert Kirkman
+- 20th Century Boys, vol 1 -- Naoki Urasawa
