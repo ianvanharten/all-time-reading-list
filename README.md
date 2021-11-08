@@ -1171,3 +1171,4 @@
 
 - The Walking Dead, Compendium Two -- Robert Kirkman
 - 20th Century Boys, vol 1 -- Naoki Urasawa
+- Head First Ruby -- Jay McGavren
