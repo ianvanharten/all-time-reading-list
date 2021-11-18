@@ -1173,3 +1173,4 @@
 - 20th Century Boys, vol 1 -- Naoki Urasawa
 - Head First Ruby -- Jay McGavren
 - The Walking Dead, Compendium Three -- Robert Kirkman
+- Head First Wordpress -- Jeff Siarto
