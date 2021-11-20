@@ -1174,3 +1174,4 @@
 - Head First Ruby -- Jay McGavren
 - The Walking Dead, Compendium Three -- Robert Kirkman
 - Head First Wordpress -- Jeff Siarto
+- The Walking Dead, Compendium Four -- Robert Kirkman
