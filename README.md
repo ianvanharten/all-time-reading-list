@@ -1175,3 +1175,4 @@
 - The Walking Dead, Compendium Three -- Robert Kirkman
 - Head First Wordpress -- Jeff Siarto
 - The Walking Dead, Compendium Four -- Robert Kirkman
+- Chew, vol 1 -- John Layman and Rob Guillory
