@@ -1176,3 +1176,4 @@
 - Head First Wordpress -- Jeff Siarto
 - The Walking Dead, Compendium Four -- Robert Kirkman
 - Chew, vol 1 -- John Layman and Rob Guillory
+- The Courage To Be Disliked -- Ichiro Kishimi and Fumitake Koga
