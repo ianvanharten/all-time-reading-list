@@ -1177,3 +1177,4 @@
 - The Walking Dead, Compendium Four -- Robert Kirkman
 - Chew, vol 1 -- John Layman and Rob Guillory
 - The Courage To Be Disliked -- Ichiro Kishimi and Fumitake Koga
+- Chew, vol 2 -- John Layman and Rob Guillory
