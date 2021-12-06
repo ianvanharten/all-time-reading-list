@@ -1178,3 +1178,7 @@
 - Chew, vol 1 -- John Layman and Rob Guillory
 - The Courage To Be Disliked -- Ichiro Kishimi and Fumitake Koga
 - Chew, vol 2 -- John Layman and Rob Guillory
+
+## December 2021
+
+- Joseph Conrad's Heart of Darkness: Graphic Adaptation -- Peter Kuper
