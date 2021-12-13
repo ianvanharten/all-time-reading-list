@@ -1182,3 +1182,4 @@
 ## December 2021
 
 - Joseph Conrad's Heart of Darkness: Graphic Adaptation -- Peter Kuper
+- Head First Web Design -- Ethan Watrall and Jeff Siarto
