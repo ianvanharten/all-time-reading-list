@@ -1183,3 +1183,6 @@
 
 - Joseph Conrad's Heart of Darkness: Graphic Adaptation -- Peter Kuper
 - Head First Web Design -- Ethan Watrall and Jeff Siarto
+
+## January 2022 (Tag Digital Studios)
+- The Life of Greece -- Will Durant
