@@ -1186,3 +1186,4 @@
 
 ## January 2022 (Tag Digital Studios)
 - The Life of Greece -- Will Durant
+- Dune -- Frank Herbert
