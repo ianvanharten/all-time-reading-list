@@ -1187,3 +1187,6 @@
 ## January 2022 (Tag Digital Studios)
 - The Life of Greece -- Will Durant
 - Dune -- Frank Herbert
+
+## February 2022
+- Sapiens, A Graphic History: The Birth of Humankind -- Yuval Noah Harari
