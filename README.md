@@ -1190,3 +1190,4 @@
 
 ## February 2022
 - Sapiens, A Graphic History: The Birth of Humankind -- Yuval Noah Harari
+- Sapiens, A Graphic History: The Pillars of Civilization -- Yuval Noah Harari
