@@ -459,7 +459,7 @@
 - The First Canadian -- C.T. Ritchie
 - Hemp Horizons -- John W. Roulac
 
-—May 2014—
+## May 2014
 
 - Bud Inc. -- Ian Mulgrew
 - Neurocomic -- Matteo Farinella and Hana Ros
@@ -1192,3 +1192,4 @@
 - Sapiens, A Graphic History: The Birth of Humankind -- Yuval Noah Harari
 - Sapiens, A Graphic History: The Pillars of Civilization -- Yuval Noah Harari
 - The Global Village -- Marshall McLuhan and Bruce Powers
+- Waking Up -- Sam Harris
