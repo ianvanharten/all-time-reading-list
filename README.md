@@ -1193,3 +1193,6 @@
 - Sapiens, A Graphic History: The Pillars of Civilization -- Yuval Noah Harari
 - The Global Village -- Marshall McLuhan and Bruce Powers
 - Waking Up -- Sam Harris
+
+## March 2022
+- Dune: Messiah -- Frank Herbert
