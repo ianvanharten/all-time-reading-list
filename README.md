@@ -1197,3 +1197,4 @@
 ## March 2022
 - Dune: Messiah -- Frank Herbert
 - The Sculptor -- Scott McCloud
+- Tono Monogatari -- Shigeru Mizuki
