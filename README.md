@@ -1198,3 +1198,4 @@
 - Dune: Messiah -- Frank Herbert
 - The Sculptor -- Scott McCloud
 - Tono Monogatari -- Shigeru Mizuki
+- One Canada: The Memoirs of John G. Diefenbaker, vol 1 -- John Diefenbaker
