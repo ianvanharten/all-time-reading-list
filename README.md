@@ -1199,3 +1199,6 @@
 - The Sculptor -- Scott McCloud
 - Tono Monogatari -- Shigeru Mizuki
 - One Canada: The Memoirs of John G. Diefenbaker, vol 1 -- John Diefenbaker
+
+## April 2022
+- The Story of Canada -- Janet Lunn and Christopher Moore
