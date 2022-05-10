@@ -1203,3 +1203,7 @@
 ## April 2022
 - The Story of Canada -- Janet Lunn and Christopher Moore
 - The Last Temptation of Christ -- Nikos Kazantzakis
+
+## May 2022
+- Jesus: Lord or Legend -- Greg Boyd and Paul Rhodes Eddy
+- The Great Spiritual Migration -- Brian McLaren
