@@ -1207,3 +1207,4 @@
 ## May 2022
 - Jesus: Lord or Legend -- Greg Boyd and Paul Rhodes Eddy
 - The Great Spiritual Migration -- Brian McLaren
+- Changing Minds: The Go-to Guide to Mental Health -- Mark Cross and Catherine Hanrahan
