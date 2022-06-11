@@ -1208,3 +1208,6 @@
 - Jesus: Lord or Legend -- Greg Boyd and Paul Rhodes Eddy
 - The Great Spiritual Migration -- Brian McLaren
 - Changing Minds: The Go-to Guide to Mental Health -- Mark Cross and Catherine Hanrahan
+
+## June 2022
+- Children of Dune -- Frank Herbert
