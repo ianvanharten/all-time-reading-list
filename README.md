@@ -1212,3 +1212,4 @@
 ## June 2022
 - Children of Dune -- Frank Herbert
 - Cognitive Behavioural Therapy: A Very Short Introduction -- Freda McManus
+- Promethea, Book One -- Alan Moore
