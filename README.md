@@ -1214,3 +1214,4 @@
 - Cognitive Behavioural Therapy: A Very Short Introduction -- Freda McManus
 - Promethea, Book One -- Alan Moore
 - Autism: A Very Short Introduction -- Uta Frith
+- God Emperor of Dune -- Frank Herbert
