@@ -1215,3 +1215,4 @@
 - Promethea, Book One -- Alan Moore
 - Autism: A Very Short Introduction -- Uta Frith
 - God Emperor of Dune -- Frank Herbert
+- The Consolations of Philosophy -- Alain de Botton
