@@ -1216,3 +1216,6 @@
 - Autism: A Very Short Introduction -- Uta Frith
 - God Emperor of Dune -- Frank Herbert
 - The Consolations of Philosophy -- Alain de Botton
+
+## July 2022
+- Losing Our Minds: The Challenge of Defining Mental Illness -- Lucy Foulkes
