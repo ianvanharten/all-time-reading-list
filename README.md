@@ -1219,3 +1219,4 @@
 
 ## July 2022
 - Losing Our Minds: The Challenge of Defining Mental Illness -- Lucy Foulkes
+- Stranger in a Strange Land -- Robert Heinlein
