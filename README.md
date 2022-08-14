@@ -1220,3 +1220,6 @@
 ## July 2022
 - Losing Our Minds: The Challenge of Defining Mental Illness -- Lucy Foulkes
 - Stranger in a Strange Land -- Robert Heinlein
+
+## August 2022
+- The Once and Future King -- TH White
