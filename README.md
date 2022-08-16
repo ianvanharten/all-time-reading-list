@@ -1222,5 +1222,6 @@
 - Stranger in a Strange Land -- Robert Heinlein
 
 ## August 2022
+- Promethea, Book Two -- Alan Moore
 - The Once and Future King -- TH White
 - How (Not) To Be Secular: Reading Charles Taylor -- James K.A. Smith
