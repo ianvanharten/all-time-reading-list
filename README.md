@@ -1223,3 +1223,4 @@
 
 ## August 2022
 - The Once and Future King -- TH White
+- How (Not) To Be Secular: Reading Charles Taylor -- James K.A. Smith
