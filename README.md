@@ -1225,3 +1225,4 @@
 - Promethea, Book Two -- Alan Moore
 - The Once and Future King -- TH White
 - How (Not) To Be Secular: Reading Charles Taylor -- James K.A. Smith
+- The Psychedelic Handbook -- Rick Strassman
