@@ -1226,3 +1226,6 @@
 - The Once and Future King -- TH White
 - How (Not) To Be Secular: Reading Charles Taylor -- James K.A. Smith
 - The Psychedelic Handbook -- Rick Strassman
+
+## September 2022
+- The Immortality Key: The Secret History of the Religion With No Name -- Brian Muraresku
