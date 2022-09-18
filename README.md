@@ -1231,3 +1231,4 @@
 - The Immortality Key: The Secret History of the Religion With No Name -- Brian Muraresku
 - The Player of Games -- Iain M. Banks
 - The Freedom Convoy -- Andrew Lawton
+- Teach Yourself Cognitive Behaviour Therapy -- Christine Wilding
