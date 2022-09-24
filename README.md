@@ -1232,3 +1232,4 @@
 - The Player of Games -- Iain M. Banks
 - The Freedom Convoy -- Andrew Lawton
 - Teach Yourself Cognitive Behaviour Therapy -- Christine Wilding
+- Bonhoeffer: Pastor, Martyr, Prophet, Spy (Student Edition) -- Eric Metaxas 
