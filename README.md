@@ -1233,3 +1233,5 @@
 - The Freedom Convoy -- Andrew Lawton
 - Teach Yourself Cognitive Behaviour Therapy -- Christine Wilding
 - Bonhoeffer: Pastor, Martyr, Prophet, Spy (Student Edition) -- Eric Metaxas 
+- Cool It -- Bjorn Lomborg
+- Children of the Mind -- Orson Scott Card
