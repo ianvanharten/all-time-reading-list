@@ -1235,3 +1235,6 @@
 - Bonhoeffer: Pastor, Martyr, Prophet, Spy (Student Edition) -- Eric Metaxas 
 - Cool It -- Bjorn Lomborg
 - Children of the Mind -- Orson Scott Card
+
+## October 2022
+- The Road to Confederation -- Donald Creighton
