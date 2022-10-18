@@ -1239,3 +1239,4 @@
 ## October 2022
 - The Road to Confederation -- Donald Creighton
 - The Righteous Mind -- Jonathan Haidt
+- Apocalypse Never -- Michael Shellenberger
