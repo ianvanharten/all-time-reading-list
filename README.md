@@ -1240,3 +1240,4 @@
 - The Road to Confederation -- Donald Creighton
 - The Righteous Mind -- Jonathan Haidt
 - Apocalypse Never -- Michael Shellenberger
+- The Uses and Abuses of History -- Margaret MacMillan
