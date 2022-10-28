@@ -1243,3 +1243,5 @@
 - Apocalypse Never -- Michael Shellenberger
 - The Uses and Abuses of History -- Margaret MacMillan
 - What We Talk About When We Talk About God -- Rob Bell
+- The Tempest -- William Shakespeare
+- The Iliad -- Gareth Hinds Adaptation
