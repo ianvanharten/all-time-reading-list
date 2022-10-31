@@ -1245,3 +1245,4 @@
 - What We Talk About When We Talk About God -- Rob Bell
 - The Tempest -- William Shakespeare
 - The Iliad -- Gareth Hinds Adaptation
+- Heaven or Heresy: A History of the Inquisition -- Thomas Madden
