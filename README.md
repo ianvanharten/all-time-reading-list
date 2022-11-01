@@ -1246,3 +1246,6 @@
 - The Tempest -- William Shakespeare
 - The Iliad -- Gareth Hinds Adaptation
 - Heaven or Heresy: A History of the Inquisition -- Thomas Madden
+
+## November 2022
+- Generals Die in Bed: A Story from the Trenches -- Charles Yale Harrison
