@@ -1250,3 +1250,4 @@
 ## November 2022
 - Generals Die in Bed: A Story from the Trenches -- Charles Yale Harrison
 - World War One: The Great War and the World it Made -- John Ramsden
+- Stranger Than We Can Imagine: An Alternative History of the 20th Century -- John Higgs
