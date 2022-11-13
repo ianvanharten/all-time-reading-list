@@ -1251,3 +1251,4 @@
 - Generals Die in Bed: A Story from the Trenches -- Charles Yale Harrison
 - World War One: The Great War and the World it Made -- John Ramsden
 - Stranger Than We Can Imagine: An Alternative History of the 20th Century -- John Higgs
+- A Knock on the Door: The Essential History of Residential Schools -- From the Truth and Reconciliation Commission of Canada
