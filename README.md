@@ -1252,3 +1252,4 @@
 - World War One: The Great War and the World it Made -- John Ramsden
 - Stranger Than We Can Imagine: An Alternative History of the 20th Century -- John Higgs
 - A Knock on the Door: The Essential History of Residential Schools -- From the Truth and Reconciliation Commission of Canada
+- First Nations Version: An Indigenous Translation of the New Testament -- Terry Wildman
