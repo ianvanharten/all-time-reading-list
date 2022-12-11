@@ -1255,3 +1255,6 @@
 - First Nations Version: An Indigenous Translation of the New Testament -- Terry Wildman
 - How To Live: A Life of Montaigne -- Sarah Bakewell
 - The Book Thief -- Markus Zusak
+
+## December 2022
+- Canada's First Century -- Donald Creighton
