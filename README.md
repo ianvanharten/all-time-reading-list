@@ -1258,3 +1258,4 @@
 
 ## December 2022
 - Canada's First Century -- Donald Creighton
+- Artificial Intelligence: A Guide for Thinking Humans -- Melanie Mitchell
