@@ -1259,3 +1259,4 @@
 ## December 2022
 - Canada's First Century -- Donald Creighton
 - Artificial Intelligence: A Guide for Thinking Humans -- Melanie Mitchell
+- The Age of AI And Our Human Future -- Henry Kissinger, Eric Schmidt, and Daniel Huttenlocher
