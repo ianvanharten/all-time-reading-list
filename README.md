@@ -1263,3 +1263,4 @@
 
 ## January 2023
 - Tao Te Ching -- Lao Tzu
+- The Well-Educated Mind -- Susan Wise Bauer
