@@ -1265,3 +1265,6 @@
 - Tao Te Ching -- Lao Tzu
 - The Well-Educated Mind -- Susan Wise Bauer
 - Friendship with God -- Neale Donald Walsch
+
+## February 2023
+- You Are Not A Gadget -- Jaron Lanier
