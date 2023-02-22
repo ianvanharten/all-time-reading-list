@@ -1268,3 +1268,5 @@
 
 ## February 2023
 - You Are Not A Gadget -- Jaron Lanier
+- What They Forgot to Teach You At School -- The School of Life
+- Autism: A Very Short Introduction -- Uta Frith
