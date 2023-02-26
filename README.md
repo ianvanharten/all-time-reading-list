@@ -1270,3 +1270,5 @@
 - You Are Not A Gadget -- Jaron Lanier
 - What They Forgot to Teach You At School -- The School of Life
 - Autism: A Very Short Introduction -- Uta Frith
+- Love, Partnership, or Singleton on the Autism Spectrum -- edited by Luike Beardon and Dean Worton
+- Quiet Girl in a Noisy World -- Debbie Tung
