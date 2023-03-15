@@ -1277,3 +1277,6 @@
 - Macbeth (Manga Classics) -- William Shakespeare
 - The Nameless City, Part 1 -- Faith Erin Hicks
 - Heretics of Dune -- Frank Herbert
+- Macbeth -- Adapted by Gareth Hinds
+- Teach Yourself Body Language -- Gordon Wainwright
+- Shakespeare Retold -- E. Nesbit
