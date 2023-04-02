@@ -1282,3 +1282,7 @@
 - Shakespeare Retold -- E. Nesbit
 - Christianity at the Crossroads: The Reformations of the 16th and 17th Centuries -- Thomas Madden
 - Romeo and Juliet -- Adapted by Gareth Hinds
+
+## April 2023
+- Sex God -- Rob Bell
+- Emma -- Jane Austen
