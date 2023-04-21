@@ -1290,3 +1290,4 @@
 - Preston Manning: The Roots of Reform -- Frank Dabbs
 - Narrative of the Life of Frederick Douglass -- Frederick Douglass
 - Understanding Body Language -- Scott Rouse
+- The Adventures of Tom Sawyer -- Mark Twain
