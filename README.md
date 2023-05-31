@@ -1296,3 +1296,4 @@
 - The Great Depression -- Pierre Berton
 - Poisoner In Chief: Sidney Gottlieb and the CIA Search for Mind Control -- Stephen Kinzer
 - True Reconciliation -- Jody Wilson-Raybould
+- Fights of Our Lives -- John Duffy
