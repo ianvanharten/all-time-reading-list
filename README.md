@@ -1301,3 +1301,6 @@
 ## June 2023 - Stratum Systems
 - Chapterhouse Dune -- Frank Herbert
 - The Canadian Regime -- Patrick Malcolmson, Gerald Baier, Richard Myers, Thomas Bateman
+
+## July 2023
+- 21 Things You May Not Know About the Indian Act -- Bob Joseph
