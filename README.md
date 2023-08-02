@@ -1304,3 +1304,6 @@
 
 ## July 2023
 - 21 Things You May Not Know About the Indian Act -- Bob Joseph
+
+## August 2023
+- Gung-Ho, vol 1 -- Benjamin von Eckartsberg and Thomas von Kummant
