@@ -1307,3 +1307,4 @@
 
 ## August 2023
 - Gung-Ho, vol 1 -- Benjamin von Eckartsberg and Thomas von Kummant
+- Adrift: America in 100 Charts -- Scott Galloway
