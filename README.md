@@ -1309,3 +1309,5 @@
 - Gung-Ho, vol 1 -- Benjamin von Eckartsberg and Thomas von Kummant
 - Adrift: America in 100 Charts -- Scott Galloway
 - Skyscrapers Hide the Heavens: A History of Indian-White Relations in Canada -- J.R. Miller
+- Gung-Ho, vol 2 -- Benjamin von Eckartsberg and Thomas von Kummant
+- NPR's Podcast Start Up Guide -- Glen Weldon
