@@ -1312,3 +1312,5 @@
 - Gung-Ho, vol 2 -- Benjamin von Eckartsberg and Thomas von Kummant
 - NPR's Podcast Start Up Guide -- Glen Weldon
 - A Fair Country: Telling Truths About Canada -- John Ralston Saul
+- Issunboshi -- Ryan Lang
+- Sweet Tooth, vol 1 -- Jeff Lemire
