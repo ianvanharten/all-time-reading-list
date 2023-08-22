@@ -1314,3 +1314,4 @@
 - A Fair Country: Telling Truths About Canada -- John Ralston Saul
 - Issunboshi -- Ryan Lang
 - Sweet Tooth, vol 1 -- Jeff Lemire
+- Etienne Burle: Immortal Scoundrel -- James Herbert Cranston
