@@ -1317,3 +1317,4 @@
 - Etienne Burle: Immortal Scoundrel -- James Herbert Cranston
 - So You Want to Start a Podcast -- Kristen Meinzer
 - Namwayut: A Pathway to Reconciliation -- Chief Robert Joseph
+- Sweet Tooth, vol 2 -- Jeff Lemire
