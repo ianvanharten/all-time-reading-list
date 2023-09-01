@@ -1319,3 +1319,6 @@
 - Namwayut: A Pathway to Reconciliation -- Chief Robert Joseph
 - Sweet Tooth, vol 2 -- Jeff Lemire
 - Sweet Tooth, vol 3 -- Jeff Lemire
+- Sweet Tooth, vol 4 -- Jeff Lemire
+
+## September 2023
