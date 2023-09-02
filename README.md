@@ -1322,3 +1322,5 @@
 - Sweet Tooth, vol 4 -- Jeff Lemire
 
 ## September 2023
+- Sweet Tooth, vol 5 -- Jeff Lemire
+- Riel: A Life of Revolution -- Maggie Siggins
