@@ -1324,3 +1324,4 @@
 ## September 2023
 - Sweet Tooth, vol 5 -- Jeff Lemire
 - Riel: A Life of Revolution -- Maggie Siggins
+- Sweet Tooth, vol 6 -- JEff Lemire
