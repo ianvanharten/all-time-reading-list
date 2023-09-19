@@ -1327,3 +1327,4 @@
 - Sweet Tooth, vol 6 -- JEff Lemire
 - Louis Riel: A Comic Strip Biography -- Chester Brown
 - Can't Hurt Me -- David Goggins
+- Pattern Master -- Octavia Butler
