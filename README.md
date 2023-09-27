@@ -1330,3 +1330,4 @@
 - Pattern Master -- Octavia Butler
 - Snow Angels, vol 1 and 2 -- Jeff Lemire
 - The Canadian Constitution -- Adam Dodek
+- Mind of My Mind -- Octavia Butler
