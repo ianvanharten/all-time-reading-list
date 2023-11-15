@@ -1335,3 +1335,6 @@
 ## Octover 2023
 - Out of the Embers -- Bradley Jersak
 - Wild Seed -- Octavia Butler
+
+## November 2023
+- Snow Crash -- Neal Stephenson
