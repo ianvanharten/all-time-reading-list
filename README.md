@@ -1338,3 +1338,4 @@
 
 ## November 2023
 - Snow Crash -- Neal Stephenson
+- Jane Eyre (Manga Classics) - Charlotte Bronte
