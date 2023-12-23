@@ -1339,3 +1339,6 @@
 ## November 2023
 - Snow Crash -- Neal Stephenson
 - Jane Eyre (Manga Classics) - Charlotte Bronte
+
+## December 2023
+- Great Expectations -- Charles Dickens
