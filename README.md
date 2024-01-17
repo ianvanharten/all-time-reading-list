@@ -1342,3 +1342,6 @@
 
 ## December 2023
 - Great Expectations -- Charles Dickens
+
+## January 2024
+- Slaughterhouse-Five (graphic novel) -- Kurt Vonnegut, Ryan North, Albert Monteys
