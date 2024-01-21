@@ -1345,3 +1345,4 @@
 
 ## January 2024
 - Slaughterhouse-Five (graphic novel) -- Kurt Vonnegut, Ryan North, Albert Monteys
+- Artemis Fowl (Graphic Novel) -- Eoin Colfer
