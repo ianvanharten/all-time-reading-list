@@ -1346,3 +1346,5 @@
 ## January 2024
 - Slaughterhouse-Five (graphic novel) -- Kurt Vonnegut, Ryan North, Albert Monteys
 - Artemis Fowl (Graphic Novel) -- Eoin Colfer
+- To Kill a Mockingbird (Graphic Novel) -- Harper Lee
+- The Nameless City, part II: The Stone Heart -- Faith Erin Hicks
