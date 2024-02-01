@@ -1348,3 +1348,6 @@
 - Artemis Fowl (Graphic Novel) -- Eoin Colfer
 - To Kill a Mockingbird (Graphic Novel) -- Harper Lee
 - The Nameless City, part II: The Stone Heart -- Faith Erin Hicks
+- The Lessons of History -- Will and Ariel Durant
+
+## February 2024
