@@ -1344,6 +1344,7 @@
 - Great Expectations -- Charles Dickens
 
 ## January 2024
+- The Histories -- Herodotus
 - Slaughterhouse-Five (graphic novel) -- Kurt Vonnegut, Ryan North, Albert Monteys
 - Artemis Fowl (Graphic Novel) -- Eoin Colfer
 - To Kill a Mockingbird (Graphic Novel) -- Harper Lee
