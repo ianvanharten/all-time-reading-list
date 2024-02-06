@@ -1351,3 +1351,4 @@
 - The Lessons of History -- Will and Ariel Durant
 
 ## February 2024
+- The Handmaid's Tale (Graphic Novel) -- Margaret Atwood and Renee Nault
