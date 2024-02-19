@@ -1353,3 +1353,5 @@
 
 ## February 2024
 - The Handmaid's Tale (Graphic Novel) -- Margaret Atwood and Renee Nault
+- The Peloponnesian War -- Thucydides
+- Heroes of History -- Will Durant
