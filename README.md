@@ -1355,3 +1355,6 @@
 - The Handmaid's Tale (Graphic Novel) -- Margaret Atwood and Renee Nault
 - The Peloponnesian War -- Thucydides
 - Heroes of History -- Will Durant
+
+## March 2024 (Stubbe's)
+- On Guard -- William Lane Craig
