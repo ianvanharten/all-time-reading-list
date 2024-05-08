@@ -1360,3 +1360,9 @@
 - On Guard -- William Lane Craig
 - Harry Potter and the Sorcerer's Stone (audiobook) -- JK Rowling
 - Harry Potter and the Chamber of Secrets (audiobook) -- JK Rowling
+
+## April 2024
+- Harry Potter and the Prisoner of Azkaban (audiobook) -- JK Rowling
+
+## May 2024
+- Harry Potter and the Goblet of Fire (audiobook) -- JK Rowling
