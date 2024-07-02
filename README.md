@@ -1370,3 +1370,6 @@
 ## June 2024
 - Harry Potter and the Order of the Phoenix (audiobook) -- JK Rowling
 - Digital Minimalism -- Cal Newport
+
+## July 2024
+- The Republic -- Plato
