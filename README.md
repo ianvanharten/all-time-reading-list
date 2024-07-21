@@ -1374,3 +1374,4 @@
 ## July 2024
 - The Republic -- Plato
 - Harry Potter and the Half Blood Prince (audiobook) -- JK Rowling
+- The Chrysalids -- John Wyndham
