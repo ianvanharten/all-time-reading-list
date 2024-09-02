@@ -1379,3 +1379,7 @@
 ## August 2024
 - Foundation -- Isaac Asimov
 - Foundation and Empire - Isaac Asimov
+- Huckleberry Finn -- Mark Twain
+
+## September 2024
+- Greek Lives -- Plutarch
