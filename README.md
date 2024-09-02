@@ -1377,6 +1377,7 @@
 - The Chrysalids -- John Wyndham
 
 ## August 2024
+- Harry Potter and the Deathly Hallows (audiobook) -- JK Rowling
 - Foundation -- Isaac Asimov
 - Foundation and Empire - Isaac Asimov
 - Huckleberry Finn -- Mark Twain
