@@ -1385,3 +1385,6 @@
 ## September 2024
 - Greek Lives -- Plutarch
 - The Canadian Regime -- Patrick Malcolmson, Richard Myers, Gerald Baier, and Thomas MJ Bateman
+
+## Octover 2024
+- What Is History -- EH Carr
