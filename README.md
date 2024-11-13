@@ -1388,3 +1388,6 @@
 
 ## Octover 2024
 - What Is History -- EH Carr
+
+## November 2024
+- Roman Lives -- Plutarch
