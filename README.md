@@ -1391,3 +1391,6 @@
 
 ## November 2024
 - Roman Lives -- Plutarch
+
+## December 2024
+- Grave Error -- Ed. by CP Champion and Tom Flanagan
