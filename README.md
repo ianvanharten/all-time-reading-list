@@ -1394,3 +1394,11 @@
 
 ## December 2024
 - Grave Error -- Ed. by CP Champion and Tom Flanagan
+
+## January - May 2024 (Longform North and move to Woodstock)
+- The Canadian Regime -- Tom Bateman and others
+- John A.: The Man Who Made US -- Richard Gwyn
+- Who Killed Canadian History -- Jack Granatstein
+- The City of God -- St. Augustine
+- Vinland Saga, Book 1 -- Makoto Yukimura
+- Ducks -- Kate Beaton
