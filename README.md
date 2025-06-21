@@ -1402,4 +1402,7 @@
 - The City of God -- St. Augustine
 - Vinland Saga, Book 1 -- Makoto Yukimura
 - Ducks -- Kate Beaton
+
+## June 2025
+- Vinland Saga, Book 2 -- Makoto Yukimura
 - Minor Arcana, Volume 1 -- Jeff Lemire
