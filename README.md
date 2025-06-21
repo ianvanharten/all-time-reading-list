@@ -1402,3 +1402,4 @@
 - The City of God -- St. Augustine
 - Vinland Saga, Book 1 -- Makoto Yukimura
 - Ducks -- Kate Beaton
+- Minor Arcana, Volume 1 -- Jeff Lemire
