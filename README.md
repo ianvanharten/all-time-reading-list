@@ -1406,3 +1406,4 @@
 ## June 2025
 - Vinland Saga, Book 2 -- Makoto Yukimura
 - Minor Arcana, Volume 1 -- Jeff Lemire
+- Mazebook -- Jeff Lemire
