@@ -1407,3 +1407,7 @@
 - Vinland Saga, Book 2 -- Makoto Yukimura
 - Minor Arcana, Volume 1 -- Jeff Lemire
 - Mazebook -- Jeff Lemire
+- Trillium -- Jeff Lemire
+- The Symposium -- Plato
+
+## July 2025
