@@ -110,6 +110,48 @@ export function useBooks() {
     () => allBooks.value.filter((book) => book.reread).length
   );
 
+  // Group books by year/month
+  const groupBooksByYearMonth = (books) => {
+    const groups = {};
+
+    books.forEach(book => {
+      const year = book.year || 'Unknown';
+      const month = book.month || 'Unknown';
+      const key = `${year}-${month}`;
+
+      if (!groups[key]) {
+        groups[key] = {
+          year,
+          month,
+          books: []
+        };
+      }
+      groups[key].books.push(book);
+    });
+
+    // Sort groups by year and month (most recent first)
+    const sortedGroups = Object.values(groups).sort((a, b) => {
+      if (a.year === 'Unknown' && b.year !== 'Unknown') return 1;
+      if (a.year !== 'Unknown' && b.year === 'Unknown') return -1;
+      if (a.year === 'Unknown' && b.year === 'Unknown') return 0;
+
+      if (a.year !== b.year) {
+        return b.year - a.year;
+      }
+
+      // If same year, sort by month
+      if (a.month === 'Unknown' && b.month !== 'Unknown') return 1;
+      if (a.month !== 'Unknown' && b.month === 'Unknown') return -1;
+      if (a.month === 'Unknown' && b.month === 'Unknown') return 0;
+
+      const monthOrder = ['January', 'February', 'March', 'April', 'May', 'June',
+                         'July', 'August', 'September', 'October', 'November', 'December'];
+      return monthOrder.indexOf(b.month) - monthOrder.indexOf(a.month);
+    });
+
+    return sortedGroups;
+  };
+
   return {
     books,
     loading,
@@ -119,6 +161,7 @@ export function useBooks() {
     addBook,
     filterBooks,
     sortBooks,
+    groupBooksByYearMonth,
     getUniqueYears,
     getUniqueAuthors,
     getFormats,

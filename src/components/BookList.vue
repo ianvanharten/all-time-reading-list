@@ -1,30 +1,27 @@
 <template>
-  <div class="space-y-6">
+  <div class="space-y-8">
     <!-- Filters and Controls -->
     <div class="card">
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
         <!-- Search -->
         <div>
-          <label class="block text-sm font-medium text-gray-700 mb-1"
+          <label class="block text-sm font-semibold text-apple-gray-300 mb-3"
             >Search</label
           >
           <input
             v-model="filters.search"
             type="text"
             placeholder="Search titles or authors..."
-            class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
+            class="input-field"
           />
         </div>
 
         <!-- Year Filter -->
         <div>
-          <label class="block text-sm font-medium text-gray-700 mb-1"
+          <label class="block text-sm font-semibold text-apple-gray-300 mb-3"
             >Year</label
           >
-          <select
-            v-model="filters.year"
-            class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
-          >
+          <select v-model="filters.year" class="select-field">
             <option value="">All Years</option>
             <option v-for="year in getUniqueYears" :key="year" :value="year">
               {{ year }}
@@ -32,30 +29,12 @@
           </select>
         </div>
 
-        <!-- Format Filter -->
-        <div>
-          <label class="block text-sm font-medium text-gray-700 mb-1"
-            >Format</label
-          >
-          <select
-            v-model="filters.format"
-            class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
-          >
-            <option value="">All Formats</option>
-            <option value="print">Print</option>
-            <option value="audiobook">Audiobook</option>
-          </select>
-        </div>
-
         <!-- Sort By -->
         <div>
-          <label class="block text-sm font-medium text-gray-700 mb-1"
+          <label class="block text-sm font-semibold text-apple-gray-300 mb-3"
             >Sort By</label
           >
-          <select
-            v-model="sortBy"
-            class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
-          >
+          <select v-model="sortBy" class="select-field">
             <option value="year">Year</option>
             <option value="title">Title</option>
             <option value="author">Author</option>
@@ -64,88 +43,97 @@
 
         <!-- Sort Order -->
         <div>
-          <label class="block text-sm font-medium text-gray-700 mb-1"
+          <label class="block text-sm font-semibold text-apple-gray-300 mb-3"
             >Order</label
           >
-          <select
-            v-model="sortOrder"
-            class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
-          >
-            <option value="desc">Descending</option>
-            <option value="asc">Ascending</option>
+          <select v-model="sortOrder" class="select-field">
+            <option value="desc">Newest First</option>
+            <option value="asc">Oldest First</option>
           </select>
         </div>
       </div>
 
       <!-- Results Count -->
-      <div class="mt-4 text-sm text-gray-600">
-        Showing {{ filteredAndSortedBooks.length }} of
-        {{ allBooks.length }} books
+      <div class="mt-6">
+        <p class="text-apple-gray-300 font-medium">
+          Showing {{ getTotalFilteredBooks }} of {{ allBooks.length }} books
+        </p>
       </div>
     </div>
 
-    <!-- Book Grid -->
-    <div
-      class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6"
-    >
-      <div
-        v-for="book in filteredAndSortedBooks"
-        :key="book.id || `${book.title}-${book.author}`"
-        class="card hover:shadow-lg transition-shadow duration-200"
-      >
-        <!-- Book Cover -->
-        <div class="mb-4">
-          <img
-            :src="getBookCoverUrl(book.title)"
-            :alt="`Cover of ${book.title}`"
-            class="w-full h-48 object-cover rounded-lg bg-gray-200"
-            @error="handleImageError"
-            loading="lazy"
-          />
+    <!-- Grouped Book List -->
+    <div class="space-y-10">
+      <div v-for="group in groupedBooks" :key="`${group.year}-${group.month}`">
+        <!-- Year/Month Heading -->
+        <div class="year-month-heading">
+          <h3 class="text-2xl font-bold text-apple-gray-100">
+            {{ group.year }}
+            <span v-if="group.month && group.month !== 'Unknown'" class="text-apple-gray-300">
+              • {{ group.month }}
+            </span>
+          </h3>
         </div>
 
-        <!-- Book Info -->
-        <div class="space-y-2">
-          <h3 class="font-semibold text-lg text-gray-900 line-clamp-2">
-            {{ book.title }}
-          </h3>
-          <p class="text-gray-600">{{ book.author }}</p>
+        <!-- Books in this group -->
+        <div class="space-y-4">
+          <div
+            v-for="book in group.books"
+            :key="book.id || `${book.title}-${book.author}`"
+            class="book-item flex items-start space-x-4 hover:bg-apple-gray-750"
+          >
+            <!-- Book Cover -->
+            <div class="flex-shrink-0">
+              <img
+                :src="getBookCoverUrl(book.title)"
+                :alt="`Cover of ${book.title}`"
+                class="w-16 h-20 object-cover rounded-lg shadow-md"
+                @error="handleImageError"
+                loading="lazy"
+              />
+            </div>
 
-          <!-- Year and Month -->
-          <div class="text-sm text-gray-500">
-            <span v-if="book.year">{{ book.year }}</span>
-            <span v-if="book.month && book.year"> • {{ book.month }}</span>
-            <span v-if="!book.year && !book.month">Date unknown</span>
-          </div>
+            <!-- Book Details -->
+            <div class="flex-1 min-w-0">
+              <div class="flex items-start justify-between">
+                <div class="flex-1 min-w-0">
+                  <h4 class="font-bold text-lg text-apple-gray-100 truncate">
+                    {{ book.title }}
+                  </h4>
+                  <p class="text-apple-gray-300 font-medium mb-2">
+                    {{ book.author }}
+                  </p>
 
-          <!-- Badges -->
-          <div class="flex flex-wrap gap-2">
-            <span
-              :class="[
-                'badge',
-                book.format === 'audiobook' ? 'badge-audiobook' : 'badge-print',
-              ]"
-            >
-              {{ book.format === "audiobook" ? "🎧 Audiobook" : "📖 Print" }}
-            </span>
-            <span v-if="book.reread" class="badge badge-reread">
-              🔄 Re-read
-            </span>
-          </div>
+                  <!-- Badges -->
+                  <div class="flex flex-wrap gap-2 mb-3">
+                    <span v-if="book.reread" class="badge badge-reread">
+                      🔄 Re-read
+                    </span>
+                  </div>
 
-          <!-- Notes -->
-          <div v-if="book.notes" class="text-sm text-gray-600 mt-2">
-            <p class="italic">"{{ book.notes }}"</p>
+                  <!-- Notes -->
+                  <div
+                    v-if="book.notes"
+                    class="text-sm text-apple-gray-400 mt-3 p-3 bg-apple-gray-700 rounded-xl"
+                  >
+                    <p class="italic leading-relaxed">"{{ book.notes }}"</p>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
 
     <!-- Empty State -->
-    <div v-if="filteredAndSortedBooks.length === 0" class="text-center py-12">
-      <div class="text-gray-400 text-6xl mb-4">📚</div>
-      <h3 class="text-lg font-medium text-gray-900 mb-2">No books found</h3>
-      <p class="text-gray-600">Try adjusting your filters or search terms.</p>
+    <div v-if="groupedBooks.length === 0" class="text-center py-20">
+      <div class="text-apple-gray-600 text-8xl mb-6">📚</div>
+      <h3 class="text-2xl font-bold text-apple-gray-300 mb-3">
+        No books found
+      </h3>
+      <p class="text-apple-gray-400 text-lg max-w-md mx-auto">
+        Try adjusting your search criteria or add some books to your library.
+      </p>
     </div>
   </div>
 </template>
@@ -154,13 +142,12 @@
 import { ref, computed } from "vue";
 import { useBooks } from "../composables/useBooks.js";
 
-const { allBooks, filterBooks, sortBooks, getUniqueYears } = useBooks();
+const { allBooks, filterBooks, sortBooks, groupBooksByYearMonth, getUniqueYears } = useBooks();
 
 // Filter and sort state
 const filters = ref({
   search: "",
   year: "",
-  format: "",
 });
 
 const sortBy = ref("year");
@@ -170,6 +157,16 @@ const sortOrder = ref("desc");
 const filteredAndSortedBooks = computed(() => {
   let books = filterBooks(allBooks.value, filters.value);
   return sortBooks(books, sortBy.value, sortOrder.value);
+});
+
+// Group books by year/month
+const groupedBooks = computed(() => {
+  return groupBooksByYearMonth(filteredAndSortedBooks.value);
+});
+
+// Get total count for display
+const getTotalFilteredBooks = computed(() => {
+  return groupedBooks.value.reduce((total, group) => total + group.books.length, 0);
 });
 
 // Book cover URL generation
@@ -183,7 +180,7 @@ const getBookCoverUrl = (title) => {
 // Handle image load errors
 const handleImageError = (event) => {
   event.target.src =
-    "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjI0MCIgdmlld0JveD0iMCAwIDIwMCAyNDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyMDAiIGhlaWdodD0iMjQwIiBmaWxsPSIjRjNGNEY2Ii8+CjxwYXRoIGQ9Ik04MCA5MEg5MFY5NUg4MFY5MFpNOTAgMTEwSDE1MFYxMTVIOTBWMTEwWk04MCA5NUg5MFYxMDBIODBWOTVaTTkwIDEyMEgxMzBWMTI1SDkwVjEyMFpNODAgMTAwSDkwVjEwNUg4MFYxMDBaTTkwIDEzMEgxNDBWMTM1SDkwVjEzMFoiIGZpbGw9IiM5Q0E5QjQiLz4KPC9zdmc+";
+    "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjI0MCIgdmlld0JveD0iMCAwIDIwMCAyNDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyMDAiIGhlaWdodD0iMjQwIiBmaWxsPSIjNDA0MDQwIi8+CjxwYXRoIGQ9Ik04MCA5MEg5MFY5NUg4MFY5MFpNOTAgMTEwSDE1MFYxMTVIOTBWMTEwWk04MCA5NUg5MFYxMDBIODBWOTVaTTkwIDEyMEgxMzBWMTI1SDkwVjEyMFpNODAgMTAwSDkwVjEwNUg4MFYxMDBaTTkwIDEzMEgxNDBWMTM1SDkwVjEzMFoiIGZpbGw9IiNhM2EzYTMiLz4KPC9zdmc+";
 };
 </script>
 

@@ -1,34 +1,35 @@
 <template>
-  <div id="app" class="min-h-screen bg-gray-50">
+  <div
+    id="app"
+    class="min-h-screen bg-gradient-to-br from-apple-gray-900 to-black"
+  >
     <!-- Header -->
-    <header class="bg-white shadow-sm border-b border-gray-200">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="flex justify-between items-center py-6">
+    <header class="glass-header sticky top-0 z-50">
+      <div class="max-w-7xl mx-auto px-6 sm:px-8 lg:px-10">
+        <div class="flex justify-between items-center py-8">
           <div>
-            <h1 class="text-3xl font-bold text-gray-900">📚 Reading History</h1>
-            <p class="text-gray-600">
-              Track and visualize your personal library
+            <h1 class="text-4xl font-bold text-apple-gray-100 mb-2">
+              📚 My Library
+            </h1>
+            <p class="text-apple-gray-300 font-medium">
+              Track and discover your reading journey
             </p>
           </div>
-          <div class="flex space-x-4">
+          <div class="flex space-x-2 bg-apple-gray-800 p-2 rounded-3xl">
             <button
               @click="activeTab = 'books'"
               :class="[
-                'px-4 py-2 rounded-lg font-medium transition-colors',
-                activeTab === 'books'
-                  ? 'bg-primary-500 text-white'
-                  : 'text-gray-600 hover:text-gray-900',
+                'nav-tab',
+                activeTab === 'books' ? 'nav-tab-active' : 'nav-tab-inactive',
               ]"
             >
-              Book List
+              Books
             </button>
             <button
               @click="activeTab = 'add'"
               :class="[
-                'px-4 py-2 rounded-lg font-medium transition-colors',
-                activeTab === 'add'
-                  ? 'bg-primary-500 text-white'
-                  : 'text-gray-600 hover:text-gray-900',
+                'nav-tab',
+                activeTab === 'add' ? 'nav-tab-active' : 'nav-tab-inactive',
               ]"
             >
               Add Book
@@ -36,13 +37,11 @@
             <button
               @click="activeTab = 'charts'"
               :class="[
-                'px-4 py-2 rounded-lg font-medium transition-colors',
-                activeTab === 'charts'
-                  ? 'bg-primary-500 text-white'
-                  : 'text-gray-600 hover:text-gray-900',
+                'nav-tab',
+                activeTab === 'charts' ? 'nav-tab-active' : 'nav-tab-inactive',
               ]"
             >
-              Analytics
+              Insights
             </button>
           </div>
         </div>
@@ -50,24 +49,29 @@
     </header>
 
     <!-- Main Content -->
-    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <main class="max-w-7xl mx-auto px-6 sm:px-8 lg:px-10 py-10">
       <!-- Loading State -->
-      <div v-if="loading" class="flex justify-center items-center py-12">
-        <div
-          class="animate-spin rounded-full h-12 w-12 border-b-2 border-primary-500"
-        ></div>
+      <div v-if="loading" class="flex justify-center items-center py-20">
+        <div class="flex flex-col items-center space-y-4">
+          <div
+            class="animate-spin rounded-full h-12 w-12 border-2 border-apple-blue-500 border-t-transparent"
+          ></div>
+          <p class="text-apple-gray-300 font-medium">Loading your library...</p>
+        </div>
       </div>
 
       <!-- Error State -->
       <div
         v-else-if="error"
-        class="bg-red-50 border border-red-200 rounded-lg p-4 mb-6"
+        class="bg-red-900 border border-red-800 rounded-3xl p-6 mb-8"
       >
-        <div class="flex">
-          <div class="text-red-400">⚠️</div>
-          <div class="ml-3">
-            <h3 class="text-sm font-medium text-red-800">Error</h3>
-            <div class="mt-2 text-sm text-red-700">{{ error }}</div>
+        <div class="flex items-start">
+          <div class="text-red-400 text-2xl mr-4">⚠️</div>
+          <div>
+            <h3 class="text-lg font-semibold text-red-200 mb-2">
+              Something went wrong
+            </h3>
+            <p class="text-red-300">{{ error }}</p>
           </div>
         </div>
       </div>
@@ -81,34 +85,30 @@
         <AddBookDialog v-if="activeTab === 'add'" @book-added="onBookAdded" />
 
         <!-- Charts Tab -->
-        <div v-if="activeTab === 'charts'" class="space-y-8">
+        <div v-if="activeTab === 'charts'" class="space-y-10">
           <YearlyChart />
 
           <!-- Stats Cards -->
-          <div class="grid grid-cols-1 md:grid-cols-4 gap-6">
-            <div class="card text-center">
-              <div class="text-3xl font-bold text-primary-600">
-                {{ getTotalBooks }}
-              </div>
-              <div class="text-sm text-gray-600 mt-1">Total Books</div>
+          <div class="grid grid-cols-2 lg:grid-cols-4 gap-6">
+            <div class="stats-card from-blue-500 to-blue-600 text-white">
+              <div class="text-3xl font-bold mb-2">{{ getTotalBooks }}</div>
+              <div class="text-sm opacity-90 font-medium">Total Books</div>
             </div>
-            <div class="card text-center">
-              <div class="text-3xl font-bold text-green-600">
-                {{ getTotalReReads }}
-              </div>
-              <div class="text-sm text-gray-600 mt-1">Re-reads</div>
+            <div class="stats-card from-emerald-500 to-emerald-600 text-white">
+              <div class="text-3xl font-bold mb-2">{{ getTotalReReads }}</div>
+              <div class="text-sm opacity-90 font-medium">Re-reads</div>
             </div>
-            <div class="card text-center">
-              <div class="text-3xl font-bold text-blue-600">
+            <div class="stats-card from-purple-500 to-purple-600 text-white">
+              <div class="text-3xl font-bold mb-2">
                 {{ getUniqueYears.length }}
               </div>
-              <div class="text-sm text-gray-600 mt-1">Years Reading</div>
+              <div class="text-sm opacity-90 font-medium">Years Reading</div>
             </div>
-            <div class="card text-center">
-              <div class="text-3xl font-bold text-purple-600">
+            <div class="stats-card from-orange-500 to-orange-600 text-white">
+              <div class="text-3xl font-bold mb-2">
                 {{ getUniqueAuthors.length }}
               </div>
-              <div class="text-sm text-gray-600 mt-1">Unique Authors</div>
+              <div class="text-sm opacity-90 font-medium">Authors</div>
             </div>
           </div>
         </div>

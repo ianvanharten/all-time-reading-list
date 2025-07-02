@@ -536,7 +536,7 @@
 - High Price -- Dr. Carl Hart
 - An Astronaut’s Guide to Life on Earth -- Chris Hadfield
 - Intolerable -- Kamal Al-Solaylee
-- Ru -- Kim Thuy	
+- Ru -- Kim Thuy
 
 ## February 2015
 
@@ -719,7 +719,7 @@
 ## December 2016
 
 - Ichiro -- Ryan Inzana
-- Shogun -- James Clavell- 
+- Shogun -- James Clavell-
 - Seven Years of Highly Defective People (Dilbert) -- Scott Adams
 - Northlanders Book 5: Metals -- Brian Wood
 - Letter 44 -- Charles Soule
@@ -1233,7 +1233,7 @@
 - The Player of Games -- Iain M. Banks
 - The Freedom Convoy -- Andrew Lawton
 - Teach Yourself Cognitive Behaviour Therapy -- Christine Wilding
-- Bonhoeffer: Pastor, Martyr, Prophet, Spy (Student Edition) -- Eric Metaxas 
+- Bonhoeffer: Pastor, Martyr, Prophet, Spy (Student Edition) -- Eric Metaxas
 - Cool It -- Bjorn Lomborg
 - Children of the Mind -- Orson Scott Card
 
@@ -1395,7 +1395,7 @@
 ## December 2024
 - Grave Error -- Ed. by CP Champion and Tom Flanagan
 
-## January - May 2024 (Longform North and move to Woodstock)
+## January - May 2025 (Longform North and move to Woodstock)
 - The Canadian Regime -- Tom Bateman and others
 - John A.: The Man Who Made US -- Richard Gwyn
 - Who Killed Canadian History -- Jack Granatstein
