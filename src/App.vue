@@ -8,42 +8,30 @@
       <div class="max-w-7xl mx-auto px-6 sm:px-8 lg:px-10">
         <div class="flex justify-between items-center py-8">
           <div>
-            <h1 class="text-4xl font-bold text-apple-gray-100 mb-2">
-              📚 My Library
+            <h1 class="text-3xl font-bold text-apple-gray-100 mb-2">
+              📙 Ian's All-Time Book Reading List
             </h1>
-            <p class="text-apple-gray-300 font-medium">
-              Track and discover your reading journey
-            </p>
           </div>
-          <div class="flex space-x-2 bg-apple-gray-800 p-2 rounded-3xl">
+          <nav class="flex space-x-8">
             <button
               @click="activeTab = 'books'"
               :class="[
-                'nav-tab',
-                activeTab === 'books' ? 'nav-tab-active' : 'nav-tab-inactive',
+                'simple-nav-tab',
+                activeTab === 'books' ? 'simple-nav-active' : 'simple-nav-inactive',
               ]"
             >
               Books
             </button>
             <button
-              @click="activeTab = 'add'"
-              :class="[
-                'nav-tab',
-                activeTab === 'add' ? 'nav-tab-active' : 'nav-tab-inactive',
-              ]"
-            >
-              Add Book
-            </button>
-            <button
               @click="activeTab = 'charts'"
               :class="[
-                'nav-tab',
-                activeTab === 'charts' ? 'nav-tab-active' : 'nav-tab-inactive',
+                'simple-nav-tab',
+                activeTab === 'charts' ? 'simple-nav-active' : 'simple-nav-inactive',
               ]"
             >
               Insights
             </button>
-          </div>
+          </nav>
         </div>
       </div>
     </header>
@@ -80,9 +68,6 @@
       <div v-else>
         <!-- Book List Tab -->
         <BookList v-if="activeTab === 'books'" />
-
-        <!-- Add Book Tab -->
-        <AddBookDialog v-if="activeTab === 'add'" @book-added="onBookAdded" />
 
         <!-- Charts Tab -->
         <div v-if="activeTab === 'charts'" class="space-y-10">
@@ -121,7 +106,6 @@
 import { ref, onMounted } from "vue";
 import { useBooks } from "./composables/useBooks.js";
 import BookList from "./components/BookList.vue";
-import AddBookDialog from "./components/AddBookDialog.vue";
 import YearlyChart from "./components/YearlyChart.vue";
 
 const activeTab = ref("books");
@@ -139,9 +123,4 @@ const {
 onMounted(() => {
   fetchBooks();
 });
-
-const onBookAdded = () => {
-  // Switch to books tab to show the newly added book
-  activeTab.value = "books";
-};
 </script>

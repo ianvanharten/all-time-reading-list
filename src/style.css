@@ -28,7 +28,7 @@
   }
 
   .book-card {
-    @apply bg-apple-gray-800 rounded-2xl shadow-book border border-apple-gray-700 p-6 transition-all duration-300 hover:shadow-apple-lg hover:-translate-y-1;
+    @apply bg-apple-gray-800 rounded-2xl shadow-book border border-apple-gray-700 p-6;
   }
 
   .book-item {
@@ -63,16 +63,16 @@
     @apply w-full px-4 py-3 border border-apple-gray-600 rounded-2xl focus:ring-2 focus:ring-apple-blue-500 focus:border-apple-blue-500 transition-all duration-200 bg-apple-gray-700 focus:bg-apple-gray-600 text-apple-gray-100 appearance-none;
   }
 
-  .nav-tab {
-    @apply px-6 py-3 rounded-2xl font-semibold transition-all duration-200 backdrop-blur-apple;
+  .simple-nav-tab {
+    @apply font-semibold transition-colors duration-200 cursor-pointer text-lg;
   }
 
-  .nav-tab-active {
-    @apply bg-apple-blue-500 text-white shadow-apple;
+  .simple-nav-active {
+    @apply text-apple-gray-100 underline decoration-apple-blue-500 decoration-2 underline-offset-4;
   }
 
-  .nav-tab-inactive {
-    @apply text-apple-gray-300 hover:text-apple-gray-100 hover:bg-apple-gray-700;
+  .simple-nav-inactive {
+    @apply text-apple-gray-400 hover:text-apple-gray-200;
   }
 
   .glass-header {
