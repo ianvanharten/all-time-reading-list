@@ -1413,3 +1413,6 @@
 ## July 2025
 - Descender (compendium) -- Jeff Lemire
 - An Ecclesiastical History of the English People -- Bede
+
+## August 2025
+- Mr. Midshiman Hornblower -- C.S. Frester
