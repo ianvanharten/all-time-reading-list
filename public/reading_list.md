@@ -1416,3 +1416,7 @@
 
 ## August 2025
 - Mr. Midshiman Hornblower -- C.S. Frester
+- The Prince -- Niccolo Machiavelli
+
+## September 2025
+- Anne of Green Gables -- L.M. Montgomery
