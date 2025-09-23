@@ -1420,3 +1420,6 @@
 
 ## September 2025
 - Anne of Green Gables -- L.M. Montgomery
+- Charlotte's Web -- E.B. White
+- The Wind in the Willows -- Kenneth Galbraith
+- The Universe and Dr. Einstein -- Lincoln Barnett
