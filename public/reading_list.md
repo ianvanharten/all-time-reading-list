@@ -1423,3 +1423,6 @@
 - Charlotte's Web -- E.B. White
 - The Wind in the Willows -- Kenneth Galbraith
 - The Universe and Dr. Einstein -- Lincoln Barnett
+
+## October 2025
+- Meditations -- Marcus Aurelius
