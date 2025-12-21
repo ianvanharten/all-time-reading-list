@@ -1426,3 +1426,10 @@
 
 ## October 2025
 - Meditations -- Marcus Aurelius
+
+## November 2025
+- Utopia -- Thomas More
+
+## December 2025
+- A Prayer for Owen Meany -- John Irving
+- The Revived -- Peter Szabo
