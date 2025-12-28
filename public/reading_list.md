@@ -1433,3 +1433,5 @@
 ## December 2025
 - A Prayer for Owen Meany -- John Irving
 - The Revived -- Peter Szabo
+- The Three-Body Problem: Comic Edition vol 1 -- Cixin Liu
+- Kingdom vol 1 -- Yasuhisa Hara
