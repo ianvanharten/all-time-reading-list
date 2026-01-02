@@ -1435,3 +1435,6 @@
 - The Revived -- Peter Szabo
 - The Three-Body Problem: Comic Edition vol 1 -- Cixin Liu
 - Kingdom vol 1 -- Yasuhisa Hara
+- All Hallow's Eve -- Charles Williams
+
+## January 2026
